@@ -1,9 +1,9 @@
 ---
 ---
 
-# ucf-draco-lab's Website
+# Where 
 
-An engaging 1-3 sentence description of your lab.
+The DRACO Lab is a vibrant and growing group of researchers at the University of Central Florida focused on providing research-driven automated tools and techniques for the reliable design, development, and evaluation of tomorrow's electronic devices. 
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use algorithms, data science, electronic design automation to create and assess resilence, robustness, and security within hardware. 
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We work on a broad range of projects, funded by various federal and industry partners, while much of our work is open source, some of our work may remain embargoed or partially-redacted when neccesary.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We're a open, collaborative, and welcoming group - if you're excited and want to be an active contributor to DRACO - check out some of our active projects above, current lab members below, and then reach out to us to get started!
 
 {%
   include button.html
@@ -76,6 +76,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Meet the team!"
   text=text
 %}
