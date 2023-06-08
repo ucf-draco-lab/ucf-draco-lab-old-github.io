@@ -4,7 +4,8 @@ subtitle: Design of Resilent Achitectures for Computing
 description: Coming Fall 2023
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /DRACO
+website: http://ece.ucf.edu/
+basewebsite: /DRACO
 
 # site social media and other links
 links:
