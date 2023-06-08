@@ -1,60 +1,928 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3390/educsci12010004
+  title: 'Computer Science beyond Coding: Partnering to Create Teacher Cybersecurity
+    Microcredentials'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Andrea C. Burrows
+  - Mike Borowczak
+  - Bekir Mugayitoglu
+  publisher: Education Sciences
+  date: '2021-12-22'
+  link: https://doi.org/gsbv2d
+  orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1109/rws52686.2021.9611792
+  title: Data-Driven Suitability Analysis to Enable Machine Learning Explainability
+    and Security
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Shaya Wolf
+  - Rita Foster
+  - Jed Haile
+  - Mike Borowczak
+  publisher: 2021 Resilience Week (RWS)
+  date: '2021-10-18'
+  link: https://doi.org/gsbv2f
+  orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1109/isc253183.2021.9562816
+  title: 'Jangseung: A Guardian for Machine Learning Algorithms to Protect Against
+    Poisoning Attacks'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Shaya Wolf
+  - Woodrow Gamboa
+  - Mike Borowczak
+  publisher: 2021 IEEE International Smart Cities Conference (ISC2)
+  date: '2021-09-07'
+  link: https://doi.org/gsbv2g
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:178-186-801-086-646
+  title: 'Designing a Creative Cybersecurity Microcredential for Educators: Challenges
+    and Successes of K-12 Teacher Professional Development'
+  date: '2022-06-02'
+  link: https://www.lens.org/178-186-801-086-646
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:070-581-490-909-767
+  title: WySLICE - Integrating Computer Science throughout Existing K-12 Core Disciplinary
+    Areas
+  date: '2022-06-02'
+  link: https://www.lens.org/070-581-490-909-767
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ijcnn52387.2021.9534017
+  title: Privacy-Preserving Fair Machine Learning Without Collecting Sensitive Demographic
+    Data
+  authors:
+  - Hui Hu
+  - Mike Borowczak
+  - Zhengzhang Chen
+  publisher: 2021 International Joint Conference on Neural Networks (IJCNN)
+  date: '2021-07-18'
+  link: https://doi.org/gsbv2h
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:117-876-214-411-569
+  title: A Blockchain-based Carbon Credit Ecosystem
+  publisher: 'arXiv: Distributed, Parallel, and Cluster Computing'
+  date: '2022-06-02'
+  link: https://www.lens.org/117-876-214-411-569
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/1-2--36927
+  title: 'Designing a Creative Cybersecurity Microcredential for Educators: Challenges
+    and Successes of K-12 Teacher Professional Development'
+  authors:
+  - Bekir Mugayitoglu
+  - Mike Borowczak
+  - Andrea Burrows
+  publisher: 2021 ASEE Virtual Annual Conference Content Access Proceedings
+  date: ''
+  link: https://doi.org/gsbv2j
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/isvlsi51109.2021.00051
+  title: 'Side-channel Leakage Assessment Metrics: A Case Study of GIFT Block Ciphers'
+  authors:
+  - William Unger
+  - Liljana Babinkostova
+  - Mike Borowczak
+  - Robert Erbes
+  publisher: 2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
+  date: '2021-07-01'
+  link: https://doi.org/gsbv2k
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/isvlsi51109.2021.00052
+  title: Stealing Machine Learning Parameters via Side Channel Power Attacks
+  authors:
+  - Shaya Wolf
+  - Hui Hu
+  - Rafer Cooley
+  - Mike Borowczak
+  publisher: 2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
+  date: '2021-07-01'
+  link: https://doi.org/gsbv2m
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:043-009-037-687-581
+  title: Assisting K-12 Teachers to Make the Connection between Computational Thinking
+    in Cybersecurity Unplugged Activities and Mathematical Mindset through A Cybersecurity
+    Micro-credential
+  date: '2022-06-02'
+  link: https://www.lens.org/043-009-037-687-581
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/educsci11010021
+  title: "Integrated STEM for Teacher Professional Learning and Development: \u201C\
+    I Need Time for Practice\u201D"
+  authors:
+  - Andrea C. Burrows
+  - Mike Borowczak
+  - Adam Myers
+  - Andria C. Schwortz
+  - Courtney McKim
+  publisher: Education Sciences
+  date: '2021-01-05'
+  link: https://doi.org/gk9296
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/educsci10120353
+  title: 'Integrated Outreach: Increasing Engagement in Computer Science and Cybersecurity'
+  authors:
+  - Shaya Wolf
+  - Andrea Carneal Burrows
+  - Mike Borowczak
+  - Mason Johnson
+  - Rafer Cooley
+  - Kyle Mogenson
+  publisher: Education Sciences
+  date: '2020-11-26'
+  link: https://doi.org/gk93bm
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icce-berlin50680.2020.9352161
+  title: Defensive Strategies for Autonomous Decentralized Lightweight Swarms
+  authors:
+  - Shaya Wolf
+  - Mike Borowczak
+  publisher: 2020 IEEE 10th International Conference on Consumer Electronics (ICCE-Berlin)
+  date: '2020-11-09'
+  link: https://doi.org/gsbv2n
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icce-berlin50680.2020.9352164
+  title: Detecting DDoS Attacks Near The Edge with Router Canaries
+  authors:
+  - Winston Howard
+  - Mike Borowczak
+  publisher: 2020 IEEE 10th International Conference on Consumer Electronics (ICCE-Berlin)
+  date: '2020-11-09'
+  link: https://doi.org/gsbv2p
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:036-435-709-112-018
+  title: 'Self-paced E-learning: Exploring the Development of a Cybersecurity Micro-credential
+    through K-12 Teacher Professional Development'
+  date: '2022-06-02'
+  link: https://www.lens.org/036-435-709-112-018
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/mce.2020.2969174
+  title: 'Secure and Resilient Swarms: Autonomous Decentralized Lightweight UAVs to
+    the Rescue'
+  authors:
+  - Shaya Wolf
+  - Rafer Cooley
+  - Jason Fantl
+  - Mike Borowczak
+  publisher: IEEE Consumer Electronics Magazine
+  date: '2020-07-01'
+  link: https://doi.org/gsbv2q
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:174-191-548-932-554
+  title: Constructing and Refining Computer Science Outreach Focused on Student Engagement
+  date: '2022-06-02'
+  link: https://www.lens.org/174-191-548-932-554
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/1-2--34327
+  title: Constructing and Refining Computer Science Outreach Focused on Student Engagement
+  authors:
+  - Shaya Wolf
+  - Rafer Cooley
+  - Mason Johnson
+  - Andrea Burrows
+  - Mike Borowczak
+  publisher: 2020 ASEE Virtual Annual Conference Content Access Proceedings
+  date: ''
+  link: https://doi.org/gsbv2r
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:197-570-377-731-751
+  title: 'Teaching Data Collection and Analysis: Using DataCorral Technology to Create
+    Lesson Plans for STEM Secondary Teachers'
+  date: '2022-06-02'
+  link: https://www.lens.org/197-570-377-731-751
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:045-765-764-928-878
+  title: Adversarial Impacts on Autonomous Decentralized Lightweight Swarms
+  publisher: 'arXiv: Multiagent Systems'
+  date: '2022-06-02'
+  link: https://www.lens.org/045-765-764-928-878
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icmla.2019.00207
+  title: One-Class Classification to Continuously Authenticate Users Based on Keystroke
+    Timing Dynamics
+  authors:
+  - Rasana Manandhar
+  - Shaya Wolf
+  - Mike Borowczak
+  publisher: 2019 18th IEEE International Conference On Machine Learning And Applications
+    (ICMLA)
+  date: '2019-12-01'
+  link: https://doi.org/gsbv2s
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/isc246665.2019.9071763
+  title: Adversarial Impacts on Autonomous Decentralized Lightweight Swarms
+  authors:
+  - Shaya Wolf
+  - Rafer Cooley
+  - Mike Borowczak
+  publisher: 2019 IEEE International Smart Cities Conference (ISC2)
+  date: '2019-10-01'
+  link: https://doi.org/gsbv2t
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10836-019-05821-z
+  title: A State Machine Encoding Methodology Against Power Analysis Attacks
+  authors:
+  - Richa Agrawal
+  - Ranga Vemuri
+  - Mike Borowczak
+  publisher: Journal of Electronic Testing
+  date: '2019-09-09'
+  link: https://doi.org/gsbv2v
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/09650792.2019.1566082
+  title: 'Computer science and engineering: utilizing action research and lesson study'
+  authors:
+  - Andrea C. Burrows
+  - Mike Borowczak
+  publisher: Educational Action Research
+  date: '2019-01-16'
+  link: https://doi.org/gsbv2w
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1049/iet-cdt.2018.5186
+  title: Mitigating information leakage during critical communication using S*FSM
+  authors:
+  - Mike Borowczak
+  - Ranga Vemuri
+  publisher: IET Computers &amp; Digital Techniques
+  date: '2019-03-20'
+  link: https://doi.org/gsbv2x
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:060-730-028-049-430
+  title: Building Collaboration and Securing Interest in Computer Science Education
+    through Outreach Opportunities
+  date: '2022-06-02'
+  link: https://www.lens.org/060-730-028-049-430
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/1-2--32484
+  title: Building Collaboration and Securing Interest in Computer Science Education
+    through Outreach Opportunities
+  authors:
+  - Shaya Wolf
+  - Fiona Moss
+  - Rasana Manandhar
+  - Madison Cooley
+  - Rafer Cooley
+  - Andrea Burrows
+  - Mike Borowczak
+  publisher: 2019 ASEE Annual Conference &amp; Exposition  Proceedings
+  date: ''
+  link: https://doi.org/gsbv2z
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/1-2--33136
+  title: Novel STEM Research Programs Could Minimize Attrition in Undergraduate Engineering
+  authors:
+  - Garrett Burrows
+  - Mike Borowczak
+  publisher: 2019 ASEE Annual Conference &amp; Exposition  Proceedings
+  date: ''
+  link: https://doi.org/gsbv22
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:142-306-323-184-328
+  title: Dynamic Anonymized Evaluation for Behavioral Continuous Authentication.
+  publisher: 'arXiv: Cryptography and Security'
+  date: '2022-06-02'
+  link: https://www.lens.org/142-306-323-184-328
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/educsci9010066
+  title: "Ants Go Marching\u2014Integrating Computer Science into Teacher Professional\
+    \ Development with NetLogo"
+  authors:
+  - Mike Borowczak
+  - Andrea Burrows
+  publisher: Education Sciences
+  date: '2019-03-26'
+  link: https://doi.org/gg39tm
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31235/osf.io/jre5k
+  title: 'CyberSecurity and Technology: How Do They Fit into a Science Classroom?'
+  authors:
+  - Andrea C Burrows
+  - Mike Borowczak
+  publisher: Center for Open Science
+  date: '2019-01-04'
+  link: https://doi.org/gsbv23
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/vlsid.2019.00031
+  title: A State Encoding Methodology for Side-Channel Security vs. Power Trade-off
+    Exploration
+  authors:
+  - Richa Agrawal
+  - Mike Borowczak
+  - Ranga Vemuri
+  publisher: 2019 32nd International Conference on VLSI Design and 2019 18th International
+    Conference on Embedded Systems (VLSID)
+  date: '2019-01-01'
+  link: https://doi.org/gsbv24
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MPOT.2018.2850600
+  title: 'S-CHIRP: Securing Communications in Lightweight Peer-to-Peer Networks in
+    the IoT'
+  authors:
+  - Shaya Wolf
+  - Rafer Cooley
+  - Mike Borowczak
+  publisher: IEEE Potentials
+  date: '2019-01-01'
+  link: https://doi.org/gsbv25
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISC2.2018.8656939
+  title: Secure and Decentralized Swarm Behavior with Autonomous Agents for Smart
+    Cities
+  authors:
+  - Rafer Cooley
+  - Shaya Wolf
+  - Mike Borowczak
+  publisher: 2018 IEEE International Smart Cities Conference (ISC2)
+  date: '2018-09-01'
+  link: https://doi.org/gsbv26
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/isc2.2018.8656988
+  title: Blockchain-Based Election Infrastructures
+  authors:
+  - Rafer Cooley
+  - Shaya Wolf
+  - Mike Borowczak
+  publisher: 2018 IEEE International Smart Cities Conference (ISC2)
+  date: '2018-09-01'
+  link: https://doi.org/gsbv27
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/isc2.2018.8656982
+  title: 'EVO-SCHIRP: Evolved Secure Swarm Communications'
+  authors:
+  - Shaya Wolf
+  - Rafer Cooley
+  - Mike Borowczak
+  - Nicholas Cheney
+  publisher: 2018 IEEE International Smart Cities Conference (ISC2)
+  date: '2018-09-01'
+  link: https://doi.org/gsbv28
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:067-023-201-387-065
+  title: 'Enabling Advanced Topics in Computing and Engineering Through Authentic
+    Inquiry: A Cybersecurity Case Study'
+  date: '2022-06-02'
+  link: https://www.lens.org/067-023-201-387-065
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:026-865-977-703-92X
+  title: 'Noyce SWARMS Scholars and Two Professional Development Models (LASSI and
+    RAMPED): Summer 2015, 2016, and 2017'
+  date: '2022-06-02'
+  link: https://www.lens.org/026-865-977-703-92X
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/educsci8010004
+  title: 'Integrated STEM: Focus on Informal Education and Community Collaboration
+    through Engineering'
+  authors:
+  - Andrea Burrows
+  - Meghan Lockwood
+  - Mike Borowczak
+  - Edward Janak
+  - Brian Barber
+  publisher: Education Sciences
+  date: '2018-01-01'
+  link: https://doi.org/gfb35n
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icce.2018.8326333
+  title: 'Portable tor router: Easily enabling web privacy for consumers'
+  authors:
+  - Adrian Barberis
+  - Danny Radosevich
+  - Wyatt Emery
+  - Mike Borowczak
+  publisher: 2018 IEEE International Conference on Consumer Electronics (ICCE)
+  date: '2018-01-01'
+  link: https://doi.org/gkmdts
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icce.2018.8326301
+  title: 'S-CHIRP: Secure communication for heterogeneous IoTs with round-robin protection'
+  authors:
+  - Mike Borowczak
+  - George Purdy
+  publisher: 2018 IEEE International Conference on Consumer Electronics (ICCE)
+  date: '2018-01-01'
+  link: https://doi.org/gkmdp3
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISVLSI.2018.00129
+  title: Designing for Security Within and Between IoT Devices
+  authors:
+  - Mike Borowczak
+  - Rafer Cooley
+  - Shaya Wolf
+  publisher: 2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
+  date: '2018-07-01'
+  link: https://doi.org/gsbv29
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/1-2--30370
+  title: 'Enabling Advanced Topics in Computing and Engineering Through Authentic
+    Inquiry: A Cybersecurity Case Study'
+  authors:
+  - Mike Borowczak
+  - Andrea Burrows
+  publisher: 2018 ASEE Annual Conference &amp; Exposition  Proceedings
+  date: ''
+  link: https://doi.org/gsbv3b
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3194206.3195587
+  title: Predictive liability models and visualizations of high dimensional retail
+    employee data
+  authors:
+  - Richard R. Yang
+  - Mike Borowczak
+  publisher: Proceedings of the 2nd International Conference on Innovation in Artificial
+    Intelligence
+  date: '2018-03-09'
+  link: https://doi.org/gkj23c
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:030-457-395-355-023
+  title: Hardening Freshman Engineering Student Soft Skills
+  date: '2022-06-02'
+  link: https://www.lens.org/030-457-395-355-023
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:139-437-652-643-363
+  title: Assessing Retail Employee Risk Through Unsupervised Learning Techniques.
+  date: '2022-06-02'
+  link: https://www.lens.org/139-437-652-643-363
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:114-975-134-050-163
+  title: Interactive Web Notebooks Using the Cloud to Enable CS in K-16+ Classrooms
+    and PDs
+  date: '2022-06-02'
+  link: https://www.lens.org/114-975-134-050-163
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:113-744-053-676-290
+  title: Teaching Teachers to Think Like Engineers Using NetLogo
+  date: '2022-06-02'
+  link: https://www.lens.org/113-744-053-676-290
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/1-2--28571
+  title: Interactive Web Notebooks Using the Cloud to Enable CS in K-16+ Classrooms
+    and PDs
+  authors:
+  - Mike Borowczak
+  - Andrea Burrows
+  publisher: 2017 ASEE Annual Conference &amp; Exposition Proceedings
+  date: ''
+  link: https://doi.org/gsbv3c
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/1-2--28926
+  title: Teaching Teachers to Think Like Engineers Using NetLogo
+  authors:
+  - Andrea Burrows
+  - Mike Borowczak
+  publisher: 2017 ASEE Annual Conference &amp; Exposition Proceedings
+  date: ''
+  link: https://doi.org/gsbv3d
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:179-791-612-979-359
+  title: 'Arduinos and Games: K-12 Teachers Explore Computer Science (Evaluation)'
+  date: '2022-06-02'
+  link: https://www.lens.org/179-791-612-979-359
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:137-824-153-175-101
+  title: 'Developing a Creative K-12 Manipulative: An ECECS Capstone'
+  date: '2022-06-02'
+  link: https://www.lens.org/137-824-153-175-101
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:059-043-249-164-678
+  title: "Enabling Collaboration and Video Assessment: Exposing Trends in Science\
+    \ Preservice Teachers\u2019 Assessments"
+  publisher: Contemporary Issues in Technology and Teacher Education
+  date: '2022-06-02'
+  link: https://www.lens.org/059-043-249-164-678
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.33225/pec/16.70.59
+  title: "AUTHENTIC SCIENCE EXPERIENCES: PRE-COLLEGIATE SCIENCE EDUCATORS\u2019 SUCCESSES\
+    \ AND CHALLENGES DURING PROFESSIONAL DEVELOPMENT"
+  authors:
+  - Andrea C. Burrows
+  - Michael A. DiPompeo
+  - Adam D. Myers
+  - Ryan C. Hickox
+  - Mike Borowczak
+  - Debbie A. French
+  - Andria C. Schwortz
+  publisher: Problems of Education in the 21st Century
+  date: '2016-04-25'
+  link: https://doi.org/gsbv3f
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:129-194-005-264-635
+  title: GIS Technology + Socio-Scientific Issues = Teacher and Student Learning
+  date: '2022-06-02'
+  link: https://www.lens.org/129-194-005-264-635
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:142-396-153-278-744
+  title: 'Visualization Basics, UGame-ICompute: An ITEST Year-3 Summary of K-12 Teacher/Student
+    Observations in the Field'
+  date: '2022-06-02'
+  link: https://www.lens.org/142-396-153-278-744
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84983372883
+  title: 'Arduinos and Games: K-12 Teachers Explore Computer Science (Evaluation)'
+  publisher: ASEE Annual Conference and Exposition, Conference Proceedings
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84983372883&partnerID=MN8TOARS
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84983251076
+  title: 'Developing a creative K-12 manipulative: An ececs capstone'
+  publisher: ASEE Annual Conference and Exposition, Conference Proceedings
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84983251076&partnerID=MN8TOARS
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:024-105-444-806-825
+  title: 'CressInt: a user-friendly web resource for genome-scale exploration of gene
+    regulation in Arabidopsis thaliana.'
+  publisher: Current Plant Biology
+  date: '2022-06-02'
+  link: https://www.lens.org/024-105-444-806-825
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.33225/pec/15.65.18
+  title: 'COMMUNICATION IN STEM EDUCATION:  A NON-INTRUSIVE METHOD FOR ASSESSMENT
+    &amp; K20 EDUCATOR FEEDBACK'
+  authors:
+  - Mike Borowczak
+  publisher: Problems of Education in the 21st Century
+  date: '2015-06-25'
+  link: https://doi.org/gsbv3g
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cpb.2015.09.001
+  title: 'CressInt : A user-friendly web resource for genome-scale exploration of
+    gene regulation in Arabidopsis thaliana'
+  authors:
+  - Xiaoting Chen
+  - Kevin Ernst
+  - Frances Soman
+  - Mike Borowczak
+  - Matthew T. Weirauch
+  publisher: Current Plant Biology
+  date: '2015-09-01'
+  link: https://doi.org/gsbv3h
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:034-197-834-412-219
+  title: 'Online STEM Integration: Pre-Service Science Teachers in the Director''s
+    Chair'
+  date: '2022-06-02'
+  link: https://www.lens.org/034-197-834-412-219
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/isvlsi.2014.78
+  title: Enabling Side Channel Secure FSMs in the Presence of Low Power Requirements
+  authors:
+  - Mike Borowczak
+  - Ranga Vemuri
+  publisher: 2014 IEEE Computer Society Annual Symposium on VLSI
+  date: '2014-07-01'
+  link: https://doi.org/gsbv3j
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISVLSI.2014.78
+  title: Enabling Side Channel Secure FSMs in the Presence of Low Power Requirements
+  authors:
+  - Mike Borowczak
+  - Ranga Vemuri
+  publisher: 2014 IEEE Computer Society Annual Symposium on VLSI
+  date: '2014-07-01'
+  link: https://doi.org/gsbv3j
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.33225/pec/13.54.07
+  title: 'ENHANCING PEDAGOGY WITH CONTEXT AND PARTNERSHIPS: SCIENCE IN HAND'
+  authors:
+  - Andrea Burrows
+  - Gabriel Wickizer
+  - Helen Meyer
+  - Mike Borowczak
+  publisher: Problems of Education in the 21st Century
+  date: '2013-06-20'
+  link: https://doi.org/gsbv3k
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BioMedCom.2012.22
+  title: 'S*FSM: A Paradigm Shift for Attack Resistant FSM Designs and Encodings'
+  authors:
+  - Mike Borowczak
+  - Ranga Vemuri
+  publisher: 2012 ASE/IEEE International Conference on BioMedical Computing (BioMedCom)
+  date: '2012-12-01'
+  link: https://doi.org/gsbv3m
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MWSCAS.2013.6674708
+  title: 'Secure controllers: Requirements of S*FSM'
+  authors:
+  - Mike Borowczak
+  - Ranga Vemuri
+  publisher: 2013 IEEE 56th International Midwest Symposium on Circuits and Systems
+    (MWSCAS)
+  date: '2013-08-01'
+  link: https://doi.org/gsbv3n
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:145-050-235-125-697
+  title: 'Side channel attack resistance: migrating towards high level methods'
+  date: '2022-06-02'
+  link: https://www.lens.org/145-050-235-125-697
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.33225/pec/12.47.06
+  title: 'TEACHING COMPUTER SCIENCE &amp; ENGINEERING THROUGH ROBOTICS: SCIENCE &amp;
+    ART FORM'
+  authors:
+  - Andrea C. Burrows
+  - Mike Borowczak
+  - Timothy F. Slater
+  - J. Chris Haynes
+  publisher: Problems of Education in the 21st Century
+  date: '2012-11-10'
+  link: https://doi.org/gsbv3p
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/HST.2012.6224315
+  title: 'SDMLp: On the use of complementary Pass transistor Logic for design of DPA
+    resistant circuits'
+  authors:
+  - Lakshmi Narasimhan Ramakrishnan
+  - Manoj Chakkaravarthy
+  - Antarpreet Singh Manchanda
+  - Mike Borowczak
+  - Ranga Vemuri
+  publisher: 2012 IEEE International Symposium on Hardware-Oriented Security and Trust
+  date: '2012-06-01'
+  link: https://doi.org/gsbv3q
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:082-323-415-258-443
+  title: 'Engineering Education Collaboration: Innovative Pedagogical Methods for
+    High School and University Environmentalists'
+  date: '2022-06-02'
+  link: https://www.lens.org/082-323-415-258-443
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:156-519-821-171-236
+  title: 'Go With The Flow: Describing Storm Water Runoff Rates Using The Derivative'
+  date: '2022-06-02'
+  link: https://www.lens.org/156-519-821-171-236
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:031-061-044-086-066
+  title: Improving Future Faculty With Graduate Engineering Education
+  date: '2022-06-02'
+  link: https://www.lens.org/031-061-044-086-066
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-77955955070
+  title: 'Engineering education collaboration: Innovative pedagogical methods for
+    high school and university environmentalists'
+  publisher: ASEE Annual Conference and Exposition, Conference Proceedings
+  date: '2022-05-29'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85029024736&partnerID=MN8TOARS
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-77955978710
+  title: 'Go with the flow: Describing storm water runoff rates using the derivative'
+  publisher: ASEE Annual Conference and Exposition, Conference Proceedings
+  date: '2022-05-29'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85029034710&partnerID=MN8TOARS
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85029067443
+  title: Improving future faculty with graduate engineering education
+  publisher: ASEE Annual Conference and Exposition, Conference Proceedings
+  date: '2022-05-29'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-77955964947&partnerID=MN8TOARS
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NAECON.2008.4806561
+  title: Safety-Centric Design of Distributed Embedded Avionics
+  authors:
+  - Ranga Vemuri
+  - Mike Borowczak
+  - Annie Avakian
+  publisher: 2008 IEEE National Aerospace and Electronics Conference
+  date: '2008-07-01'
+  link: https://doi.org/dp5r9x
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ANSS-41.2008.34
+  title: The Use of Device Simulation in Development of USB Storage Devices
+  authors:
+  - R. Brian Anderson
+  - Mike Borowczak
+  - Philip A. Wilsey
+  publisher: 41st Annual Simulation Symposium (anss-41 2008)
+  date: '2008-04-01'
+  link: https://doi.org/dmj6b3
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: lensid:097-052-704-829-583
+  title: Implementing Lazy Streams in C
+  date: '2022-06-02'
+  link: https://www.lens.org/097-052-704-829-583
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/p.26275
+  title: 'Arduinos and Games: K-12 Teachers Explore Computer Science (Evaluation)'
+  authors:
+  - Andrea Burrows
+  - Mike Borowczak
+  publisher: 2016 ASEE Annual Conference &amp; Exposition Proceedings
+  date: ''
+  link: https://doi.org/gsbv3r
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/p.26718
+  title: 'Developing a Creative K-12 Manipulative: An ECECS Capstone'
+  authors:
+  - Mike Borowczak
+  - Andrea Burrows
+  publisher: 2016 ASEE Annual Conference &amp; Exposition Proceedings
+  date: ''
+  link: https://doi.org/gsbv3s
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/1-2--16896
+  title: 'Engineering Education Collaboration: Innovative Pedagogical Methods For  High
+    School And University Environmentalists'
+  authors:
+  - Leslie Hadaway
+  - Megan Urbaitis
+  - Regina Lamendella
+  - Daniel Oerther
+  - Andrea Burrows
+  - Mike Borowczak
+  - Anant Kukreti
+  publisher: 2010 Annual Conference &amp; Exposition Proceedings
+  date: ''
+  link: https://doi.org/gsbv3t
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/1-2--16900
+  title: 'Go With The Flow: Describing Storm Water Runoff Rates Using The Derivative'
+  authors:
+  - Brad Hunt
+  - Regina Lamendella
+  - Sara Garrison
+  - Andrea Burrows
+  - Mike Borowczak
+  - Anant Kukreti
+  publisher: 2010 Annual Conference &amp; Exposition Proceedings
+  date: ''
+  link: https://doi.org/gsbv3v
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/1-2--16917
+  title: Improving Future Faculty With Graduate Engineering Education
+  authors:
+  - Andrea Burrows
+  - Anant Kukreti
+  - Mike Borowczak
+  - Amr Safwat
+  publisher: 2010 Annual Conference &amp; Exposition Proceedings
+  date: ''
+  link: https://doi.org/gsbv3w
+  orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -70,9 +938,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -89,21 +954,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
