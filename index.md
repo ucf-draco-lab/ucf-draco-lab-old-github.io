@@ -3,7 +3,7 @@
 
 # Where 
 
-The DRACO Lab is a vibrant and growing group of researchers at the University of Central Florida focused on providing research-driven automated tools and techniques for the reliable design, development, and evaluation of tomorrow's electronic devices. 
+The DRACO Lab is a vibrant and growing group of researchers at the University of Central Florida (UCF) focused on providing research-driven automated tools and techniques for the reliable design, development, and evaluation of tomorrow's electronic devices. 
 
 {% include section.html %}
 
