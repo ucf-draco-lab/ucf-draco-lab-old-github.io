@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/jcp3030018
+  title: Power-Based Side-Channel Attacks on Program Control Flow with Machine Learning
+    Models
+  authors:
+  - Andey Robins
+  - Stone Olguin
+  - Jarek Brown
+  - Clay Carper
+  - Mike Borowczak
+  publisher: Journal of Cybersecurity and Privacy
+  date: '2023-07-07'
+  link: https://doi.org/gsgv6h
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/educsci12010004
   title: 'Computer Science beyond Coding: Partnering to Create Teacher Cybersecurity
     Microcredentials'
