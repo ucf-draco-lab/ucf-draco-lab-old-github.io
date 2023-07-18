@@ -11,7 +11,7 @@ The DRACO Lab is a vibrant and growing group of researchers at the University of
 
 {% capture text %}
 
-We use algorithms, data science, electronic design automation to create and assess resilence, robustness, and security within hardware. 
+We develop algoritms and processes to automatically design, develop, and assess the resilence, robustness, security electronic devices and systems. 
 
 {%
   include button.html
