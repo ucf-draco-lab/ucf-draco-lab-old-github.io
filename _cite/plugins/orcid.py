@@ -56,7 +56,7 @@ def main(entry):
         if id_type != "doi":
             # get summaries
             summaries = get_safe(work, "work-summary", [])
-
+            print(summaries)
             # sort summary entries by most recent
             summaries = sorted(
                 summaries,
