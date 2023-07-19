@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Side Channels" style="rich" %}%
+{% include citation.html lookup="Power-Based Side-Channel Attacks on Program Control Flow with Machine Learning Models" style="rich" %}%
 
 {% include section.html %}
 
