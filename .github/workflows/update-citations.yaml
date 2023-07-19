@@ -20,7 +20,7 @@ permissions:
 
 env:
   FORCE_COLOR: true
-  GOOGLE_SCHOLAR_API_KEY: 3ed4d885315565401fe57acab20296bf5b870a9c7cb0cf8a9af897c1ecf1f2aa
+  GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_API_KEY}}
 
 jobs:
   update-citations:
