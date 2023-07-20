@@ -1,11 +1,17 @@
 - id: eid:2-s2.0-85138257032
+  title: On the Development of Cybersecurity and Computing Centric Professional Developments
+    and the Subsequent Implementation of Topics in K12 Lesson Plans (RTP)
+  publisher: ASEE Annual Conference and Exposition, Conference Proceedings
   authors:
   - Andey Robins
   - Andrea C Burrows
   - Mike Borowczak
   date: '2022-08-23'
-
+  orcid: 0000-0001-9409-8245
 - id: eid:2-s2.0-85138295410
+  title: The Artful Craft of Improving Virtual Summer Camps in the Midst of COVID-19
+    (Work in Progress)
+  publisher: ASEE Annual Conference and Exposition, Conference Proceedings
   authors:
   - Shawna Wolf
   - Shaya Wolf
@@ -13,19 +19,28 @@
   - Andrea C Burrows
   - Mike Borowczak
   date: '2022-08-23'
+  orcid: 0000-0001-9409-8245
 
 - id: eid:2-s2.0-85111015140
+  title: A blockchain-based carbon credit ecosystem
+  publisher: arXiv
   authors:
   - Soheil Saraji
   - Mike Borowczak
   date: '2021-06-30'
+  orcid: 0000-0001-9409-8245
 
 - id: eid:2-s2.0-85105867054
+  title: 'A university''s developmental framework: Creating, implementing, and evaluating
+    a K-12 teacher cybersecurity micro-credential course'
+  publisher: ICSIT 2021 - 12th International Conference on Society and Information
+    Technologies, Proceedings
   authors:
   - Bekir Mugayitoglu
   - Mike Borowczak
   - Andrea C Burrows
   date: '2021-03-12'
+  orcid: 0000-0001-9409-8245
 
 - id: lensid:070-581-490-909-767
   authors:
@@ -33,14 +48,22 @@
   - Andrea C Burrows
   - Mason Johnson
   date: '2021-07-26'
-
+  title: WySLICE - Integrating Computer Science throughout Existing K-12 Core Disciplinary
+    Areas
+  publisher: ASEE Annual Conference and Exposition, Conference Proceedings
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85124543087&partnerID=MN8TOARS
+  orcid: 0000-0001-9409-8245
 - id: eid:2-s2.0-85095780473
+  title: Constructing and refining engaging computer science outreach
   authors:
   - Shaya Wolf
   - Rafer Cooley
   - Mason Johnson
   - Andrea C Burrows
   - Mike Borowczak
+  publisher: ASEE Annual Conference and Exposition, Conference Proceedings
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85095780473&partnerID=MN8TOARS
+  orcid: 0000-0001-9409-8245
   date: '2020-06-26'
 
 - id: eid:2-s2.0-85078773673
@@ -53,21 +76,41 @@
   - Andrea C Burrows
   - Mike Borowczak
   date: '2019-06-19'
+  title: Building collaboration and securing interest in computer science education
+    through outreach opportunities
+  publisher: ASEE Annual Conference and Exposition, Conference Proceedings
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85078773673&partnerID=MN8TOARS
+  orcid: 0000-0001-9409-8245
 
 - id: eid:2-s2.0-85093401563
+  title: Dynamic Anonymized Evaluation for Behavioral Continuous Authentication
+  publisher: arXiv
   authors: 
   - Rasana Manandhar
   - Shaya Wolf
   - Mike Borowczak
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85093401563&partnerID=MN8TOARS
+  orcid: 0000-0001-9409-8245
   date: '2019-03-19'
 
 - id: eid:2-s2.0-85051209978
+  title: 'Enabling advanced topics in computing and engineering through authentic
+    inquiry: A cybersecurity case study'
   authors:
   - Mike Borowczak
   - Andrea C Burrows
+  publisher: ASEE Annual Conference and Exposition, Conference Proceedings
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85051209978&partnerID=MN8TOARS
+  orcid: 0000-0001-9409-8245
+
 
 - id: eid:2-s2.0-85065661057
   authors:
   - Andrea C Burrows
   - Mike Borowczak
   date: '2017-08-07'
+  title: Hardening freshman engineering student soft skills
+  publisher: 2017 FYEE Conference
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85065661057&partnerID=MN8TOARS
+  orcid: 0000-0001-9409-8245
