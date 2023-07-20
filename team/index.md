@@ -7,29 +7,39 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The DRACO lab is brand new to UCF (as of Fall 2023) so we're growing and looking for undergraduate and graduate researchers alike to join us. While we're new, we're dedicated to building a diverse, collaborative, and supportive research team. Our team works hard, welcomes those who want to engage in research and outreach, and above all we treat each other with respect and support one another in our similarities and unique differences.
 
-{% include section.html %}
+{% include list.html data="members" component="portrait" filters="role: pi, group:" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: capstone-senior, group: " %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Are you interested in joining us as a researcher, developer, or supporter? We're looking to push the envelope of design automation for semi-conductor technologies of the future - from design, to verification, to test, we're interesting in developing algorithms and software that increase the development, security, and resilence of next-generation devices.
+
+{%
+  include button.html
+  icon="fa-solid fa-handshake-angle"
+  text="Join DRACO"
+  link="join"
+  style="button"
+
+%}
 
 {% include section.html %}
 
+## Funding and Support
+
+Coming Soon!
+<!--
 {% capture content %}
 
+ {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %} 
 
 {% endcapture %}
-
+-->
 {% include grid.html style="square" content=content %}
