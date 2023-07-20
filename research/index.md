@@ -13,7 +13,7 @@ Citations on this webpage are automatically generated from external sources.
 
 ## Highlighted
 
-{% include citation.html lookup="Power-Based Side-Channel Attacks on Program Control Flow with Machine Learning Models" style="rich" %}%
+{% include citation.html lookup="Power-Based Side-Channel Attacks on Program Control Flow with Machine Learning Models" style="rich" %}
 
 {% include section.html %}
 
