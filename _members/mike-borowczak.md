@@ -1,8 +1,8 @@
----
+xs---
 name: Mike Borowczak
 image: images/mike-borowczak.jpg
 role: pi
-group: DRACO
+group: 
 links:
   home-page: http://ece.ucf.edu/~borowczak
   orcid: 0000-0001-9409-8245
