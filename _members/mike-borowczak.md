@@ -1,4 +1,4 @@
-xs---
+---
 name: Mike Borowczak
 image: images/mike-borowczak.jpg
 role: pi
