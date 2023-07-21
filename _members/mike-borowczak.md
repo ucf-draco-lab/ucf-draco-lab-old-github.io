@@ -1,10 +1,17 @@
 ---
 name: Mike Borowczak
 image: images/mike-borowczak.jpg
-role: 
-group: 
+role: pi
+group: DRACO
 links:
-  github: 
+  home-page: http://ece.ucf.edu/~borowczak
+  orcid: 0000-0001-9409-8245
+aliases:
+  - M. Borowczak
+  - M Borowczak
+  - Dr. Mike
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Dr. Mike Borowczak is an Associate Professor of Electrical and Computer Engineering (ECE) at the University of Central Florida. 
+
