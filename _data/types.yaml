@@ -7,19 +7,19 @@ pi:
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-code-fork
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-code-branch
   description: PhD Student
 
 ms:
-  icon: fa-solid fa-graduation-cap
-    description: Masters Student
+  icon: fa-solid fa-code-pull-request
+  description: Masters Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-code-commit
   description: Undergraduate Student
 
 programmer:
@@ -27,13 +27,13 @@ programmer:
   description: Programmer
 
 mascot:
-  icon: fa-solid fa-dog
+  icon: fa-solid fa-dragon
   description: Mascot
 
 # general
 
 link:
-  icon: fa-solid fa-globe
+  icon: fa-solid fa-arrow-right-from-bracket
   text: Link
   tooltip: Link
 
