@@ -11,12 +11,14 @@ The DRACO lab is brand new to UCF (as of Fall 2023) so we're growing and looking
 
 {% include list.html data="members" component="portrait" filters="role: pi, group:" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: ms, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 {% include list.html data="members" component="portrait" filters="role: capstone-senior, group: " %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
 
+## Join Us
 Are you interested in joining us as a researcher, developer, or supporter? We're looking to push the envelope of design automation for semi-conductor technologies of the future - from design, to verification, to test, we're interesting in developing algorithms and software that increase the development, security, and resilence of next-generation devices.
 
 {%
@@ -32,14 +34,20 @@ Are you interested in joining us as a researcher, developer, or supporter? We're
 
 ## Funding and Support
 
-Coming Soon!
-<!--
+The work represented on this site has been funded by a variety of federal, state, local, and corporate entitied. We are greatful for their support and look forward to continuing to develop mutually beneficial relationships. Have a project you're interesting in supporting? Contact [Dr. Mike]({{ site.baseurl }}/contact).
+
 {% capture content %}
 
- {% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %} 
+ {% include figure.html image="images/nsf.jpg" %}
+{% include figure.html image="images/nsa.jpg" %}
+{% include figure.html image="images/gencyber.jpg" %} 
+{% include figure.html image="images/doe.jpg" %} 
+{% include figure.html image="images/inl.jpg" %} 
+{% include figure.html image="images/iog.jpg" %} 
+{% include figure.html image="images/kraken.jpg" %} 
+{% include figure.html image="images/ripple.jpg" %} 
+
 
 {% endcapture %}
--->
+
 {% include grid.html style="square" content=content %}

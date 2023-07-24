@@ -1,6 +1,6 @@
 ---
 name: Mike Borowczak
-image: images/mike-borowczak.jpg
+image: images/mike-borowczak.png
 role: pi
 group: 
 links:
