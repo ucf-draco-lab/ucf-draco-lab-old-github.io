@@ -34,18 +34,18 @@ Are you interested in joining us as a researcher, developer, or supporter? We're
 
 ## Funding and Support
 
-The work represented on this site has been funded by a variety of federal, state, local, and corporate entitied. We are greatful for their support and look forward to continuing to develop mutually beneficial relationships. Have a project you're interesting in supporting? Contact [Dr. Mike]({{ site.baseurl }}/contact).
+The work, projects, publications, materials, and members represented have been funded by a variety of federal, state, local, and corporate entitied. We are greatful for their support and look forward to continuing to develop mutually beneficial relationships. Have a project you're interesting in supporting? Contact [Dr. Mike]({{ site.baseurl }}/contact).
 
 {% capture content %}
 
- {% include figure.html image="images/nsf.jpg" %}
-{% include figure.html image="images/nsa.jpg" %}
-{% include figure.html image="images/gencyber.jpg" %} 
-{% include figure.html image="images/doe.jpg" %} 
-{% include figure.html image="images/inl.jpg" %} 
-{% include figure.html image="images/iog.jpg" %} 
-{% include figure.html image="images/kraken.jpg" %} 
-{% include figure.html image="images/ripple.jpg" %} 
+ {% include figure.html image="images/sponsors/nsf.png" %}
+{% include figure.html image="images/sponsors/nsa.png" %}
+{% include figure.html image="images/sponsors/gencyber.jpg" %} 
+{% include figure.html image="images/sponsors/doe.png" %} 
+{% include figure.html image="images/sponsors/inl.png" %} 
+{% include figure.html image="images/sponsors/iog.png" %} 
+{% include figure.html image="images/sponsors/kraken.png" %} 
+{% include figure.html image="images/sponsors/ripple.png" %} 
 
 
 {% endcapture %}
