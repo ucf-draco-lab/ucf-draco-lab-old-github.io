@@ -1,0 +1,40 @@
+- title: AI v. Human - DSD Edition
+  subtitle: Keeping score - limits, risks, and benefits of generative pre-trained transformers in Digital System Design.
+  image: images/photo.jpg
+  link: #
+  description: Develop a specification for digital system and manually implement both the design and testbench for the digital system. Using the same specification, request designs (and testbenches) from a variety of generative pre-trained transformers. Compare the resulting designs and testbenches against known solutions across various metrics.
+  repo: 
+  tags:
+    - Undergraduate Research
+    - Available
+
+- title: Generative AI - DSD Edition
+  subtitle: Build a better pre-trained transformer.
+  image: images/photo.jpg
+  link: #
+  description: Collect known exemplar specification, designs, and testbenches to develop a custom pre-trained transformer. If enough data is readily available also create two independent unimodal transformers - one to create designs and another to create testbenches.
+  repo: 
+  tags:
+    - Undergraduate Research
+    - Available
+    - Featured
+
+- title: Blocks of Code (v2)
+  subtitle: Physical block programming
+  image: images/photo.jpg
+  link: #
+  description: Create a block that based on orientation and manipulations performs one of several fundamental operations. When blocks are placed together they form more complex actions. Blocks should be ultra low-power and cost under five dollar per unit. End product should contain at least 25 blocks.
+  repo: 
+  tags:
+    - Senior Design Project
+    - Available
+
+- title: OpenSense Platform (v2)
+  subtitle: Unmask the secrets of data collection and logging
+  image: images/photo.jpg
+  link: #
+  description: Create a data collection plaftom that allows for basic environmental data collection for at least three different properties (e.g., temperature, weight/pressure, brightness). Trading off sensor accuracy for simplicity is critical. Platform should allow end user to input the model that converts raw data measurments into known units.
+  repo: 
+  tags:
+    - Senior Design Project
+    - Available

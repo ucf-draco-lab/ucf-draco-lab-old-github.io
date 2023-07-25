@@ -15,7 +15,7 @@ Details and process for joining the lab itself are coming soon.
 ### Undergraduate Students
 
 
-Undergraduate students (from Freshman to Seniors) are always welcome in DRACO. Though DRACO is new to UCF undergraduate researchers in our prior lab (CEDAR) have been first authors on papers submitted on research that they performed.
+Undergraduate students (from Freshman to Seniors) are always welcome in DRACO. Though DRACO is new to UCF, undergraduate researchers in our prior lab (CEDAR) have been first authors on papers submitted on research that they performed.
 
 Our expectations for undergraduate researchers are high, but we offer support, guidance, and training to those who wish to work with us! Not sure if diving into research is for you? Join our information sessions held twice a semester. 
 

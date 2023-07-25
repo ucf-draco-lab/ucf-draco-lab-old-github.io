@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Work coming soon.
-
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="Senior Design Project, Undergraduate Research" %}
 
 {% include search-info.html %}
 
