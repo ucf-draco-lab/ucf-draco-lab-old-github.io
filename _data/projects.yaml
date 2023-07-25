@@ -4,6 +4,7 @@
   link: #
   description: Develop a specification for digital system and manually implement both the design and testbench for the digital system. Using the same specification, request designs (and testbenches) from a variety of generative pre-trained transformers. Compare the resulting designs and testbenches against known solutions across various metrics.
   repo: 
+  group: featured
   tags:
     - Undergraduate Research
     - Available
@@ -14,10 +15,10 @@
   link: #
   description: Collect known exemplar specification, designs, and testbenches to develop a custom pre-trained transformer. If enough data is readily available also create two independent unimodal transformers - one to create designs and another to create testbenches.
   repo: 
+  group: featured
   tags:
     - Undergraduate Research
     - Available
-    - Featured
 
 - title: Blocks of Code (v2)
   subtitle: Physical block programming
