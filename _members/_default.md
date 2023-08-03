@@ -1,7 +1,7 @@
 ---
 name: Firstname LastName
 image: images/people/firstname-lastname.png
-role: undergrad-ms-phd (choose correct one)
+role: undergrad-ms-phd
 links:
   home-page: http://URLHERE
   linkedin: http://linkedin.com/in/USERNAME
