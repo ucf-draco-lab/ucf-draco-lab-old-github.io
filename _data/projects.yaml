@@ -21,10 +21,10 @@
     - Available
 
 - title: Blocks of Code (v2)
-  subtitle: Physical block programming
+  subtitle: Physical block programming.
   image: images/photo.jpg
-  link: #
-  description: Create a block that based on orientation and manipulations performs one of several fundamental operations. When blocks are placed together they form more complex actions. Blocks should be ultra low-power and cost under five dollar per unit. End product should contain at least 25 blocks.
+  link: https://github.com/erebus-labs/blocks-o-code
+  description: Create a block that based on orientation and manipulations performs one of several fundamental operations. When blocks are placed together they form more complex actions. Blocks should be ultra low-power and cost under five dollar per unit. End product should contain at least 25 blocks. See results from V1 completed by [PDX Senior Capstone team circa 2015](https://github.com/erebus-labs/blocks-o-code)
   repo: 
   tags:
     - Senior Design Project
@@ -33,8 +33,8 @@
 - title: OpenSense Platform (v2)
   subtitle: Unmask the secrets of data collection and logging
   image: images/photo.jpg
-  link: #
-  description: Create a data collection plaftom that allows for basic environmental data collection for at least three different properties (e.g., temperature, weight/pressure, brightness). Trading off sensor accuracy for simplicity is critical. Platform should allow end user to input the model that converts raw data measurments into known units.
+  link: https://github.com/erebus-labs/sense_platform
+  description: Create a data collection plaftom that allows for basic environmental data collection for at least three different properties (e.g., temperature, weight/pressure, brightness). Trading off sensor accuracy for simplicity is critical. Platform should allow end user to input the model that converts raw data measurments into known units. See results from V1 completed by [PDX Senior Capstone team circa 2015](https://github.com/erebus-labs/sense_platform)
   repo: 
   tags:
     - Senior Design Project
