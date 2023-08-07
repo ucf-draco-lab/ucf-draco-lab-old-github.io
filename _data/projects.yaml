@@ -39,3 +39,13 @@
   tags:
     - Senior Design Project
     - Available
+
+- title: Smart Sport Radar
+  subtitle: Customize alerts to users and others using intelligence and randomness.
+  image: images/photo.jpg
+  link: #
+  description: Traditional sport radars connect to custom hardware and have limitted customizations available - develop a programmable radar device (bonus if it's bluetooth connected) which detects threats in customizable zones and provides visual and auditory alerts to both user and external entities in multi-attention grabbing non-static pulses.
+  repo: 
+  tags:
+    - Senior Design Project
+    - Available
