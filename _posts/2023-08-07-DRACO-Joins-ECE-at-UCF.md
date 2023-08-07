@@ -1,5 +1,5 @@
 ---
-title: DRACO Joins ECE @ UCF
+title: DRACO Joins ECE at UCF
 author: mike-borowczak
 tags:
   - general
