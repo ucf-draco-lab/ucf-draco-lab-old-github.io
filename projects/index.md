@@ -19,6 +19,13 @@ nav:
 
 {% include section.html %}
 
-## More
+## Senior Design Projects
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: Available" %}
+
+
+{% include section.html %}
+
+## All Projects
+
+{% include list.html component="card" data="projects" filters="" style="small" %}
