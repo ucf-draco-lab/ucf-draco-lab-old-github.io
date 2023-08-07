@@ -1,5 +1,8 @@
 ---
 title: Join the DRACO Team
+nav:
+  order: 6
+  tooltip: Knight & Dragon 
 ---
 
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team

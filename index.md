@@ -1,9 +1,9 @@
 ---
 ---
 
-# Where 
+# Welcome 
 
-The DRACO Lab is a vibrant and growing group of researchers at the University of Central Florida (UCF) focused on providing research-driven automated tools and techniques for the reliable design, development, and evaluation of tomorrow's electronic devices. 
+The DRACO Lab is a new and growing group of researchers at the University of Central Florida (UCF) focused on providing research-driven automated tools and techniques for the resilient design, development, and evaluation of tomorrow's electronic semi-conductor devices. 
 
 {% include section.html %}
 
@@ -13,6 +13,7 @@ The DRACO Lab is a vibrant and growing group of researchers at the University of
 
 We develop algoritms and processes to automatically design, develop, and assess the resilence, robustness, security electronic devices and systems. 
 
+View 
 {%
   include button.html
   link="research"
@@ -36,10 +37,16 @@ We develop algoritms and processes to automatically design, develop, and assess 
 
 We work on a broad range of projects, funded by various federal and industry partners, while much of our work is open source, some of our work may remain embargoed or partially-redacted when neccesary.
 
+Our research includes topics at various stages of investation:  advanced/novel cryptographic logic primatives (polymorphic, homomorphic, quantum-enhanced), symbiosis of AI designed constructs for AI applications, assessment and evalution of assitive technologies on  semiconductor design and post-manufacturing opperation, and developement and detection methods for AI-based sabbotage. 
+
+We also sponsor more applied projects which may be of interest to Senior Design Teams.
+
+Interested?
+
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Check out our active, available, and archived projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -59,7 +66,7 @@ We work on a broad range of projects, funded by various federal and industry par
 
 {% capture text %}
 
-We're a open, collaborative, and welcoming group - if you're excited and want to be an active contributor to DRACO - check out some of our active projects above, current lab members below, and then reach out to us to get started!
+We're a open, collaborative, and welcoming group - if you're excited and want to be an active contributor to DRACO - check out some of our active projects above, current lab members below, and then read about how to [join us]({{ site.baseurl }}/join)!
 
 {%
   include button.html
