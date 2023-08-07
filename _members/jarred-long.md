@@ -3,7 +3,7 @@ name: Jarred Long
 image: images/people/Jarred-Long.png
 role: undergrad 
 links:
-  linkedin: https://www.linkedin.com/in/jlong1221/
+  linkedin: jlong1221
 
 
 ---

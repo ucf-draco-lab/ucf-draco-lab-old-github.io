@@ -5,9 +5,9 @@ role: director
 group: 
 links:
   home-page: http://ece.ucf.edu/~borowczak
-  linkedin: https://www.linkedin.com/in/mborowczak
-  github: https://github.com/ucf-draco-mike
-  gitlab: https://gitlab.com/drmikeb
+  linkedin: mborowczak
+  github: ucf-draco-mike
+  gitlab: drmikeb
   orcid: 0000-0001-9409-8245
 aliases:
   - M. Borowczak
