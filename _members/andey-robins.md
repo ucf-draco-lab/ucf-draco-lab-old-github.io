@@ -10,6 +10,7 @@ links:
   gitlab: andeyrobins
   orcid: 0000-0003-0006-6248
 aliases:
+  - Andey Robins
   - Andey Tuttle
 
 ---
