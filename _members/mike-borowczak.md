@@ -10,9 +10,9 @@ links:
   gitlab: drmikeb
   orcid: 0000-0001-9409-8245
 aliases:
-  - M. Borowczak
+  - Mike Borowczak
   - M Borowczak
-  - Dr. Mike
+
 
 ---
 
