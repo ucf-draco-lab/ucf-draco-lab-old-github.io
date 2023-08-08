@@ -7,6 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
+We develop algoritms and processes to automatically design, develop, and assess the resilence, robustness, security electronic devices and systems. 
+
+Our research includes topics at various stages of investigation:  advanced/novel cryptographic logic primatives (polymorphic, homomorphic, quantum-enhanced), symbiosis of AI designed constructs for AI applications, assessment and evalution of assitive technologies on  semiconductor design and post-manufacturing opperation, and developement and detection methods for AI-based sabbotage. 
+
+We have opportunities for undergraduate (paid or experiential based on interest and time commitment) and graduate research (funded). Our research projects are tightly coupled with the topics listed above, but we also sponsor more applied projects which may be of interest to Senior Design Teams.
+
+
 {% include tags.html tags="Senior Design Project, Undergraduate Research" %}
 
 {% include search-info.html %}
@@ -21,7 +28,7 @@ nav:
 
 ## Senior Design Projects
 
-{% include list.html component="card" data="projects" filters="group: Senior Design Project" %}
+{% include list.html component="card" data="projects" filters="tag: Senior Design Project" %}
 
 
 {% include section.html %}

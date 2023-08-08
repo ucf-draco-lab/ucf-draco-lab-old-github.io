@@ -11,9 +11,10 @@ The DRACO Lab is a new and growing group of researchers at the University of Cen
 
 {% capture text %}
 
-We develop algoritms and processes to automatically design, develop, and assess the resilence, robustness, security electronic devices and systems. 
+We develop algoritms and processes to automatically design, develop, and assess the resilence, robustness, security electronic devices and systems. Our research includes topics at various stages of investigation:  advanced/novel cryptographic logic primatives (polymorphic, homomorphic, quantum-enhanced), symbiosis of AI designed constructs for AI applications, assessment and evalution of assitive technologies on  semiconductor design and post-manufacturing opperation, and developement and detection methods for AI-based sabbotage. 
 
-View 
+All of our research and nearly all of our (~100) publications and presentations involve students. Also, most feature undergraduate and graduates as authors!
+ 
 {%
   include button.html
   link="research"
@@ -37,11 +38,8 @@ View
 
 We work on a broad range of projects, funded by various federal and industry partners, while much of our work is open source, some of our work may remain embargoed or partially-redacted when neccesary.
 
-Our research includes topics at various stages of investation:  advanced/novel cryptographic logic primatives (polymorphic, homomorphic, quantum-enhanced), symbiosis of AI designed constructs for AI applications, assessment and evalution of assitive technologies on  semiconductor design and post-manufacturing opperation, and developement and detection methods for AI-based sabbotage. 
+We have opportunities for undergraduate (paid or experiential based on interest and time commitment) and graduate research (funded). Our research projects are tightly coupled with the topics listed above, but we also sponsor more applied projects which may be of interest to Senior Design Teams.
 
-We also sponsor more applied projects which may be of interest to Senior Design Teams.
-
-Interested?
 
 {%
   include button.html
@@ -66,7 +64,7 @@ Interested?
 
 {% capture text %}
 
-We're a open, collaborative, and welcoming group - if you're excited and want to be an active contributor to DRACO - check out some of our active projects above, current lab members below, and then read about how to [join us]({{ site.baseurl }}/join)!
+We're an open, collaborative, and welcoming group - if you're excited and want to be an active contributor to DRACO - check out some of our active projects above, current lab members below, and then read about how to [join us]({{ site.baseurl }}/join)!
 
 {%
   include button.html
