@@ -94,6 +94,12 @@ github:
   tooltip: GitHub
   link: https://github.com/$VALUE
 
+gitlab:
+  icon: fa-brands fa-gitlab
+  text: GitLab
+  tooltip: GitLab
+  link: https://gitlab.com/$VALUE
+
 twitter:
   icon: fa-brands fa-twitter
   text: Twitter
