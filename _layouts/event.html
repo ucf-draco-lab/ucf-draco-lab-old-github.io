@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<h1 class="center">{{ page.title }}</h1>
+
+{%
+  include event-info.html
+  presenters=event.presenters
+  published=event.date
+  startday = event.start-day
+  starttime = event.start-time
+  endday = event.end-day
+  endtime = event.end-time
+  location = event.location
+  rsvp = event.rsvp
+  tags=event.tags
+%}
+
+{% include section.html %}
+
+{{ content }}
+
+{% include section.html %}
+
+{% include event-nav.html post=page %}

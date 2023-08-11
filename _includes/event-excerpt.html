@@ -1,0 +1,33 @@
+{% assign event = site.events 
+  | where_exp: "event", "event.slug == include.lookup"
+  | first
+  | default: include
+%}
+
+<div class="event-excerpt">
+  {% assign url = event.url %}
+  {% assign title = event.title %}
+  <a href="{{ url | relative_url }}">{{ title }}</a>
+
+  {%
+    include event-info.html
+    presenters=event.presenters
+    published=event.date
+    startday = event.start-day
+    starttime = event.start-time
+    endday = event.end-day
+    endtime = event.end-time
+    location = event.location
+    rsvp = event.rsvp
+    tags=event.tags
+  %}
+
+  {% assign search = post.content
+    | strip_html 
+    | strip_newlines
+    | regex_strip
+  %}
+  <p data-search="{{ search }}">
+    {{ excerpt }}
+  </p>
+</div>
