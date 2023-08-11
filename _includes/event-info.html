@@ -1,0 +1,61 @@
+<div class="event-info">
+  {% if include.presenters %}
+    {% for presenter in presenters %}
+      {% assign member = site.members
+        | where_exp: "member", "member.slug == presenter"
+        | first
+      %}
+      {% if member %}
+        {% include portrait.html lookup=presenter style="tiny" %}
+      {% else %}
+        <span data-tooltip="Presenters">
+          {% include icon.html icon="fa-solid fa-feather-pointed" %}
+          <span>{{ presenter }}</span>
+        </span>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% assign startday = include.startday | date: "%B %d, %Y" %}
+  {% assign starttime = include.startime %}
+  {% assign endday = include.endday | date: "%B %d, %Y" %}
+  {% assign endtime = include.endtime %}
+
+  {% if startday %}
+    <span data-tooltip="Event starts on">
+      {% include icon.html icon="fa-regular fa-calendar" %}
+      <span>{{ startday }}
+      {% if starttime %}
+        {{ starttime }}
+      {% endif %}
+      </span>
+    </span>
+  {% endif %}
+
+  {% if endday and endday != "" and endday != startday %}
+    <span data-tooltip="Event ends on">
+      {% include icon.html icon="fa-solid fa-clock-rotate-left" %}
+      <span>{{ endday }}
+      {% if endtime %}
+        {{ endtime }}
+      {% endif %}
+      </span>
+    </span>
+  {% elsif endtime and endtime != ""%}
+  <span data-tooltip="Event ends at">
+    {% include icon.html icon="fa-solid fa-clock-rotate-left" %}
+    <span>{{ endtime }}</span>
+    </span>
+  {% endif %}
+  
+  {% if location and location != ""}
+    <span data-tooltip="Location">
+    {% include icon.html icon="fa-solid fa-map" %}
+    <span>{{ location }}</span>
+    </span>
+  {% endif %}
+</div>
+
+{% if include.tags %}
+  {% include tags.html tags=include.tags link="blog" %}
+{% endif %}
