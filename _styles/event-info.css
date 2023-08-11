@@ -1,0 +1,32 @@
+.event-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 20px 0;
+  color: var(--gray);
+}
+
+.event-info .portrait {
+  margin: 0;
+}
+
+.event-info .icon {
+  margin-right: 0.5em;
+}
+
+.event-info a {
+  color: inherit;
+}
+
+.event-info a:hover {
+  color: var(--primary);
+}
+
+.event-info > span {
+  text-align: center;
+  white-space: nowrap;
+}
+
+/*# sourceMappingURL=event-info.css.map */
