@@ -1,5 +1,7 @@
 ---
 title: Prospective Researcher Lunch 'N Learn
+author: mike-borowczak
+
 presenters: 
   - mike-borowczak
 start-day: 2023-08-29

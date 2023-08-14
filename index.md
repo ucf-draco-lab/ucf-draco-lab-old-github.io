@@ -9,11 +9,7 @@ The DRACO Lab is a new and growing group of researchers at the University of Cen
 
 ## News and Events
 
-{% include tags.html tags=site.tags %}
-
-{% include search-info.html %}
-
-{% include list.html data="events" component="event-excerpt" %}
+{% include list.html data="events/posts" component="event-excerpt" %}
 
 {% include section.html %}
 
@@ -21,7 +17,7 @@ The DRACO Lab is a new and growing group of researchers at the University of Cen
 
 {% capture text %}
 
-We develop algoritms and processes to automatically design, develop, and assess the resilence, robustness, security electronic devices and systems. Our research includes topics at various stages of investigation:  advanced/novel cryptographic logic primatives (polymorphic, homomorphic, quantum-enhanced), symbiosis of AI designed constructs for AI applications, assessment and evalution of assitive technologies on  semiconductor design and post-manufacturing opperation, and developement and detection methods for AI-based sabbotage. 
+We develop algorithms and processes to automatically design, develop, and assess the resilence, robustness, security electronic devices and systems. Our research includes topics at various stages of investigation:  advanced/novel cryptographic logic primatives (polymorphic, homomorphic, quantum-enhanced), symbiosis of AI designed constructs for AI applications, assessment and evalution of assitive technologies on  semiconductor design and post-manufacturing opperation, and developement and detection methods for AI-based sabbotage. 
 
 All of our research and nearly all of our (~100) publications and presentations involve students. Also, most feature undergraduate and graduates as authors!
  
