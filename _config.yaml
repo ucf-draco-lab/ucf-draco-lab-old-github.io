@@ -36,7 +36,7 @@ defaults:
       type: "posts"
     values:
       layout: post
-  # markdown files in /events
+  # markdown files in /_events
   - scope:
       type: "events"
     values:
