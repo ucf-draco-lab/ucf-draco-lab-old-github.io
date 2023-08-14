@@ -1,0 +1,18 @@
+<div class="post-nav">
+  <span>
+    {% if include.event.previous %}
+      {% include icon.html icon="fa-solid fa-angle-left" %} Previous event<br>
+      <a href="{{ include.post.previous.url | relative_url }}">
+        {{ include.event.previous.title }}
+      </a>
+    {% endif %}
+  </span>
+  <span>
+    {% if include.event.next %}
+      Next event {% include icon.html icon="fa-solid fa-angle-right" %}<br>
+      <a href="{{ include.post.next.url | relative_url }}">
+        {{ include.event.next.title }}
+      </a>
+    {% endif %}
+  </span>
+</div>
