@@ -36,6 +36,11 @@ defaults:
       type: "posts"
     values:
       layout: post
+  # markdown files in /events
+  - scope:
+      type: "events"
+    values:
+      layout: event
 
 collections:
   # generate page for each member
@@ -43,6 +48,8 @@ collections:
     output: true
   # generate page for each post
   posts:
+    output: true
+  events:
     output: true
 
 # jekyll plugins
