@@ -1,6 +1,6 @@
 ---
 name: Andey Robins
-image: images/people/andey-robins.jpg
+image: images/people/andey-robins.png
 role: phd
 group: 
 links:
