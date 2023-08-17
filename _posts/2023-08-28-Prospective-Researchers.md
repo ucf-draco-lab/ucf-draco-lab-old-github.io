@@ -4,13 +4,10 @@ author: mike-borowczak
 
 tags:
   - event
-  - undergraduate
-  - graduate
-  - EE
-  - CPE
-
 
 ---
+
+Join the DRACO lab for an informal information Lunch and Learn (LunchNLearn) session.
 
 | Key | Value |
 |-----|-------|
