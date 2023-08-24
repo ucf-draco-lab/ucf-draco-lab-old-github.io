@@ -1,6 +1,6 @@
 ---
 name: Lana Perkins
-image: images/people/lana-perkins.png
+image: images/people/lana-perkins.jpg
 role: undergrad
 links:
   linkedin: lana-perkins-ucf
