@@ -6,8 +6,9 @@
   repo: 
   group: featured
   tags:
-    - Undergraduate Research
-    - Available
+    - undergraduate
+    - research
+    - available
 
 - title: Generative AI - DSD Edition
   subtitle: Build a better pre-trained transformer.
@@ -17,8 +18,21 @@
   repo: 
   group: featured
   tags:
-    - Undergraduate Research
-    - Available
+    - undergraduate
+    - research
+    - available
+
+- title: Polymorphic Encrypted Components
+  subtitle: Design Fundamental Building Blocks with Polymorphic Properties 
+  image: images/photo.jpg
+  link: #
+  description: Using techniques common in malware detection evasion create encrypted components that perform standard opperations with a constantly changing key.
+  repo: 
+  group: featured
+  tags:
+    - undergraduate
+    - research
+    - available
 
 - title: Blocks of Code (v2)
   subtitle: Physical block programming.
@@ -27,8 +41,10 @@
   description: Create a block that based on orientation and manipulations performs one of several fundamental operations. When blocks are placed together they form more complex actions. Blocks should be ultra low-power and cost under five dollar per unit. End product should contain at least 25 blocks. See results from V1 completed by [PDX Senior Capstone team circa 2015](https://github.com/erebus-labs/blocks-o-code)
   repo: 
   tags:
-    - Senior Design Project
-    - Available
+    - undergraduate
+    - senior-design
+    - pending
+
 
 - title: OpenSense Platform (v2)
   subtitle: Unmask the secrets of data collection and logging
@@ -37,15 +53,17 @@
   description: Create a data collection plaftom that allows for basic environmental data collection for at least three different properties (e.g., temperature, weight/pressure, brightness). Trading off sensor accuracy for simplicity is critical. Platform should allow end user to input the model that converts raw data measurments into known units. See results from V1 completed by [PDX Senior Capstone team circa 2015](https://github.com/erebus-labs/sense_platform)
   repo: 
   tags:
-    - Senior Design Project
-    - Available
+    - undergraduate
+    - senior-design
+    - pending
 
 - title: Smart Sport Radar
   subtitle: Customize alerts to users and others using intelligence and randomness.
   image: images/photo.jpg
   link: #
-  description: Traditional sport radars connect to custom hardware and have limitted customizations available - develop a programmable radar device (bonus if it's bluetooth connected) which detects threats in customizable zones and provides visual and auditory alerts to both user and external entities in multi-attention grabbing non-static pulses.
+  description: Traditional sport "radars," or proximity sensors, connect to custom hardware and have limitted customizations available - develop a programmable radar device (bonus if it's bluetooth connected) which detects threats in customizable zones and provides visual and auditory alerts to both user and external entities in multi-attention grabbing non-static pulses.
   repo: 
   tags:
-    - Senior Design Project
-    - Available
+    - undergraduate
+    - senior-design
+    - available

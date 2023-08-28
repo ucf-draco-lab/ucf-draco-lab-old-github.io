@@ -9,7 +9,7 @@ The DRACO Lab is a new and growing group of researchers at the University of Cen
 
 ## News and Events
 
-{% include list.html data="posts" component="post-excerpt" filters="tag: events"%}
+{% include list.html data="posts" component="post-excerpt" filters="tag: events, tag:news"%}
 
 
 

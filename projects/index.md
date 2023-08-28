@@ -14,7 +14,7 @@ Our research includes topics at various stages of investigation:  advanced/novel
 We have opportunities for undergraduate (paid or experiential based on interest and time commitment) and graduate research (funded). Our research projects are tightly coupled with the topics listed above, but we also sponsor more applied projects which may be of interest to Senior Design Teams.
 
 
-{% include tags.html tags="Senior Design Project, Undergraduate Research" %}
+{% include tags.html tags="senior-design, undergraduate, research, available, pending" %}
 
 {% include search-info.html %}
 
@@ -28,7 +28,7 @@ We have opportunities for undergraduate (paid or experiential based on interest 
 
 ## Senior Design Projects
 
-{% include list.html component="card" data="projects" filters="tag: Senior Design Project" %}
+{% include list.html component="card" data="projects" filters="tag: senior-design" %}
 
 
 {% include section.html %}
