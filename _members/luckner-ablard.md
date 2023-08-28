@@ -1,10 +1,10 @@
 ---
 name: Luckner Ablard
-image: images/people/firstname-lastname.png
+image: images/people/luckner-ablard.jpeg
 role: Undergrad
 links:
-  linkedin: linkedin.com/in/luckner-ablard
-  github: https://github.com/lablard24
+  linkedin: luckner-ablard
+  github: lablard24
   
 
 
