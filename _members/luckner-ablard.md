@@ -1,7 +1,7 @@
 ---
 name: Luckner Ablard
 image: images/people/luckner-ablard.jpeg
-role: Undergrad
+role: undergrad
 links:
   linkedin: luckner-ablard
   github: lablard24
