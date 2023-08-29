@@ -9,18 +9,24 @@ nav:
 
 The DRACO lab is brand new to UCF so we're growing and looking for undergraduate and graduate researchers alike to join us. While we're new, we're dedicated to building a diverse, collaborative, and supportive research team. Our team works hard, welcomes those who want to engage in research and outreach, and above all we treat each other with respect and support one another in our similarities and unique differences.
 
-{% include tags.html tags="director, phd, ms, undergrad, capstone-senior" %}
+{% include tags.html tags="role: director, phd, ms, undergrad, capstone-senior" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
+## Director
 
 {% include list.html data="members" component="portrait" filters="role: director, group:" %}
+
+
+{% include section.html %}
+## Graduate Student Researchers
 
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: ms, group: " %}
 
 {% include section.html %}
+## Undergraduate Students
 
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 
