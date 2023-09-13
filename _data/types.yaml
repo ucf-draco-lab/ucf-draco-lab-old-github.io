@@ -12,15 +12,19 @@ postdoc:
 
 phd:
   icon: fa-solid fa-code-branch
-  description: PhD Student
+  description: PhD Student Researcher
 
 ms:
   icon: fa-solid fa-code-pull-request
-  description: Masters Student
+  description: Masters Student Researcher
 
 undergrad:
   icon: fa-solid fa-code-commit
-  description: Undergraduate Student
+  description: Undergraduate Student Researcher
+
+AMDundergrad:
+  icon: fa-solid person-rays
+  description: AMD Undergraduate Fellow
 
 programmer:
   icon: fa-solid fa-code
