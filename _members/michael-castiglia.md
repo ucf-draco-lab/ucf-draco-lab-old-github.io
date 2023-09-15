@@ -2,7 +2,7 @@
 name: Michael Castiglia
 image: images/people/michael-castiglia.png
 role: undergrad
-groups: AMD
+group: AMD
 links:
   home-page: https://mcastiglia.com
   linkedin: michael-castiglia
