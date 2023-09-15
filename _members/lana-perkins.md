@@ -2,7 +2,7 @@
 name: Lana Perkins
 image: images/people/lana-perkins.jpg
 role: undergrad
-groups: AMD
+group: AMD
 links:
   linkedin: lana-perkins-ucf
   orcid: 0009-0008-1498-7682
