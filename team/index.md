@@ -16,22 +16,22 @@ The DRACO lab is brand new to UCF so we're growing and looking for undergraduate
 {% include section.html %}
 ## Director
 
-{% include list.html data="members" component="portrait" filters="role: director, group:" %}
+{% include list.html data="members" component="portrait" filters="role: director" %}
 
 
 {% include section.html %}
 ## Graduate Student Researchers
 
-{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
-{% include list.html data="members" component="portrait" filters="role: ms, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: ms" %}
 
 {% include section.html %}
 ## Undergraduate Students
 
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 
-{% include list.html data="members" component="portrait" filters="role: capstone-senior, group: " %}
+{% include list.html data="members" component="portrait" filters="role: capstone-senior " %}
 
 {% include section.html %}
 
