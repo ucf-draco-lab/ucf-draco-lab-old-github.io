@@ -28,7 +28,8 @@ The DRACO lab is brand new to UCF so we're growing and looking for undergraduate
 {% include section.html %}
 ## Undergraduate Students
 
-{% include list.html data="members" component="portrait" filters="role: AMDundergrad, undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+
 
 {% include list.html data="members" component="portrait" filters="role: capstone-senior, group: " %}
 
