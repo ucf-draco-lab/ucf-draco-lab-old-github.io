@@ -1,6 +1,6 @@
 ---
 name: Malia Rojas 
-image: images/people/firstname-lastname.png 
+image: images/people/malia_rojas.jpg
 role: undergrad 
 links:
   linkedin: malia-rojas 
