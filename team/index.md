@@ -38,7 +38,7 @@ The DRACO lab is brand new to UCF so we're growing and looking for undergraduate
 {% include section.html background="images/background.jpg" dark=true %}
 
 ## Join Us
-Are you interested in joining us as a researcher, developer, or supporter? We're looking to push the envelope of design automation for semi-conductor technologies of the future - from design, to verification, to test, we're interesting in developing algorithms and software that increase the development, security, and resilence of next-generation devices.
+Are you interested in joining us as a researcher, developer, or supporter? We're looking to push the envelope of design automation for semi-conductor technologies of the future - from design, to verification, to test, we're interesting in developing algorithms and software that increase the development, security, and resilience of next-generation devices.
 
 {%
   include button.html

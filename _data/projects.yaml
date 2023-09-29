@@ -8,7 +8,7 @@
   tags:
     - undergraduate
     - research
-    - available
+    - pending
 
 - title: Generative AI - DSD Edition
   subtitle: Build a better pre-trained transformer.
@@ -20,7 +20,7 @@
   tags:
     - undergraduate
     - research
-    - available
+    - pending
 
 - title: Polymorphic Encrypted Components
   subtitle: Design Fundamental Building Blocks with Polymorphic Properties 
@@ -32,7 +32,7 @@
   tags:
     - undergraduate
     - research
-    - available
+    - pending
 
 - title: Blocks of Code (v2)
   subtitle: Physical block programming.
@@ -43,19 +43,19 @@
   tags:
     - undergraduate
     - senior design
-    - pending
+    - taken
 
 
 - title: OpenSense Platform (v2)
   subtitle: Unmask the secrets of data collection and logging
   image: images/projects/sense.png
   link: #
-  description: Create a data collection plaftom that allows for basic environmental data collection for at least three different properties (e.g., temperature, weight/pressure, brightness). Trading off sensor accuracy for simplicity is critical. Platform should allow end user to input the model that converts raw data measurments into known units. See results from V1 completed by [PDX Senior Capstone team circa 2015](https://github.com/erebus-labs/sense_platform)
+  description: Create a data collection plaftom that allows for basic environmental data collection for at least three different properties (e.g., temperature, weight/pressure, brightness). Trading off sensor accuracy for simplicity is critical. Platform should allow end user to input the model that converts raw data measurements into known units. See results from V1 completed by [PDX Senior Capstone team circa 2015](https://github.com/erebus-labs/sense_platform)
   repo: 
   tags:
     - undergraduate
     - senior design
-    - pending
+    - taken
 
 - title: Smart Sport Radar
   subtitle: Customize alerts to users and others using intelligence and randomness.
@@ -63,6 +63,16 @@
   link: #
   description: Traditional sport "radars," or proximity sensors, connect to custom hardware and have limitted customizations available - develop a programmable radar device (bonus if it's bluetooth connected) which detects threats in customizable zones and provides visual and auditory alerts to both user and external entities in multi-attention grabbing non-static pulses.
   repo: 
+  tags:
+    - undergraduate
+    - senior design
+    - available
+
+- title: 3D Projection Title
+  description: Develop a 2^n x 2^n Grid of RGBW+ leds that is fed from the simulation output of a cycle/turn-based multi-agent simulator. Enable connectable components to increase the grid-size. Basic version should feature fixed 3D printed topology with each unit square being illuminated via an RGB+ led - stretch goal should feature pneumatically controlled tube structures and a flexible membrane.
+  image: images/photo.jpg
+  link: #
+  repo : 
   tags:
     - undergraduate
     - senior design

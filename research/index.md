@@ -8,7 +8,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Please note that the citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) please reference the published version of the publications to obtain acurate citation information.
+Please note that the citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) please reference the published version of the publications to obtain accurate citation information.
 
 {% include section.html %}
 
