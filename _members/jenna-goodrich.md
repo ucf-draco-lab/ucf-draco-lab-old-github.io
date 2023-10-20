@@ -1,6 +1,6 @@
 ---
 name: Jenna Goodrich
-image: images/jenna-goodrich.jpg
+image: images/people/jenna-goodrich.jpg
 role: ms
 group: 
 links:
