@@ -1,6 +1,6 @@
 ---
 name: Jarred Long
-image: images/people/Jarred-Long.png
+image: images/people/jarred-long.jpg
 role: undergrad 
 links:
   linkedin: jlong1221
