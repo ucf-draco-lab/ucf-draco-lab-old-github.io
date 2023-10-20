@@ -1,6 +1,6 @@
 ---
 name: Michael Castiglia
-image: images/people/michael-castiglia.png
+image: images/people/michael-castiglia.jpg
 role: undergrad
 group: AMD
 links:
