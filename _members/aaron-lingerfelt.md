@@ -1,6 +1,6 @@
 ---
 name: Aaron Lingerfelt
-image: images/people/aaron-lingerfelt.png
+image: images/people/aaron-lingerfelt.jpg
 role: undergrad
 links:
   linkedin: aaronlingerfelt
