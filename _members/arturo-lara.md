@@ -1,7 +1,7 @@
 ---
 name: Arturo Lara
 image: images/people/arturo-lara.png
-role: Undergraduate
+role: undergrad
 links:
   linkedin: arturo-lara-52579b222
   github: G4M3R-N0ST4LG14
