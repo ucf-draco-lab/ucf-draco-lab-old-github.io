@@ -36,7 +36,7 @@ All of our research and nearly all of our (~100) publications and presentations 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research/research-highlight.png"
   link="research"
   title="Our Research"
   text=text
@@ -62,7 +62,7 @@ We have opportunities for undergraduate (paid or experiential based on interest 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -87,7 +87,7 @@ We're an open, collaborative, and welcoming group - if you're excited and want t
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/meet-the-team.jpg"
   link="team"
   title="Meet the team!"
   text=text
