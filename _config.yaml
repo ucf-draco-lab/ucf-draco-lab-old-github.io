@@ -36,7 +36,11 @@ defaults:
       type: "posts"
     values:
       layout: post
-
+  # markdown files in /_news
+  - scope:
+      type: "news"
+    values:
+      layout: post
 collections:
   # generate page for each member
   members:
@@ -44,7 +48,9 @@ collections:
   # generate page for each post
   posts:
     output: true
-
+  news:
+    output: true
+    
 # jekyll plugins
 plugins:
   - jekyll-spaceship

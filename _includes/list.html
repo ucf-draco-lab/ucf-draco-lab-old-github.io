@@ -3,12 +3,14 @@
   | default: site[include.data]
   | default: emptyarray
   | data_filter: include.filters
+  | data_sortdir: reverse
+  | data_sortdir: include.sort
 %}
 
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
-  | reverse
+  | data_sortdir
 %}
 
 {% for year in years %}
@@ -16,7 +18,7 @@
 
   {% if years.size > 1 %}
     {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
-    {% assign data = data | sort: "date" | reverse %}
+    {% assign data = data | sort: "date" | data_sortdir %}
   {% endif %}
 
   {% for d in data %}

@@ -2,12 +2,12 @@
 title: Blog
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: 
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Check back soon for posts from Dr. Borowczak and our student researchers!
+Check back soon for blog posts from Dr. Borowczak and our student researchers!
 
 {% include section.html %}
 
