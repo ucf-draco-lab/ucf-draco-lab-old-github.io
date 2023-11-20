@@ -1,3 +1,4 @@
+
 - title: AI v. Human - DSD Edition
   subtitle: Keeping score - limits, risks, and benefits of generative pre-trained transformers in Digital System Design.
   image: images/photo.jpg
@@ -6,9 +7,8 @@
   repo: 
   group: featured
   tags:
-    - undergraduate
     - research
-    - pending
+    - taken
 
 - title: Generative AI - DSD Edition
   subtitle: Build a better pre-trained transformer.
@@ -20,7 +20,7 @@
   tags:
     - undergraduate
     - research
-    - pending
+    - available
 
 - title: Polymorphic Encrypted Components
   subtitle: Design Fundamental Building Blocks with Polymorphic Properties 
@@ -32,7 +32,7 @@
   tags:
     - undergraduate
     - research
-    - pending
+    - taken
 
 - title: Blocks of Code (v2)
   subtitle: Physical block programming.
@@ -69,7 +69,7 @@
     - available
 
 - title: 3D Projection Title
-  description: Develop a 2^n x 2^n Grid of RGBW+ leds that is fed from the simulation output of a cycle/turn-based multi-agent simulator. Enable connectable components to increase the grid-size. Basic version should feature fixed 3D printed topology with each unit square being illuminated via an RGB+ led - stretch goal should feature pneumatically controlled tube structures and a flexible membrane.
+  description: Develop a 2^n x 2^n Grid of RGBW+ LEDs that is fed from the simulation output of a cycle/turn-based multi-agent simulator. Enable connectable components to increase the grid-size. Basic version should feature fixed 3D printed topology with each unit square being illuminated via an RGB+ led - stretch goal should feature pneumatically controlled tube structures and a flexible membrane.
   image: images/photo.jpg
   link: #
   repo : 

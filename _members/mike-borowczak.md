@@ -1,7 +1,7 @@
 ---
 name: Mike Borowczak
 image: images/people/mike-borowczak.png
-role: director
+role: PI
 group: 
 links:
   home-page: http://ece.ucf.edu/~borowczak

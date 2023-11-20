@@ -41,6 +41,10 @@ defaults:
       type: "news"
     values:
       layout: post
+  - scope:
+      type: "project"
+    values:
+      layout: post
 collections:
   # generate page for each member
   members:
@@ -49,6 +53,8 @@ collections:
   posts:
     output: true
   news:
+    output: true
+  projects:
     output: true
     
 # jekyll plugins

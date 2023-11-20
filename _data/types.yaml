@@ -2,9 +2,9 @@
 
 # team member roles
 
-director:
+PI:
   icon: fa-solid fa-user-tie
-  description: Director
+  description: Principal Investigator
 
 postdoc:
   icon: fa-solid fa-code-fork
