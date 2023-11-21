@@ -1,6 +1,6 @@
 ---
 title: Project Title (short)
-subtile: 1 sentence description
+subtitle: 1 sentence description
 image: images/project/filename.png
 members:
   firstname-lastname
