@@ -1,16 +1,15 @@
 ---
-tile: Project Title
+title: Project Title (short)
+subtile: 1 sentence description
 image: images/project/filename.png
-author:
+members:
   firstname-lastname
   firstname-lastname
 tags: 
-  - active| in-active
-  - <descriptive tag>
+  - active | in-active
+  - <keyword1>
+  - <keyword2>
+prq: Primary Research Question (One-liner)
 
 ---
-
-<!-- excerpt start -->
-Main headline/description goes here
-<!-- excerpt end -->
-remainder of Project Description / Paragraph Goes here
+Project Description / Paragraph Goes here
