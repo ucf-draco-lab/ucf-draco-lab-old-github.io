@@ -18,21 +18,10 @@ We have opportunities for undergraduate (paid or experiential based on interest 
 
 {% include search-info.html %}
 
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filters="group: featured" %}
-
-{% include section.html %}
-
-## Senior Design Projects
-
-{% include list.html component="card" data="projects" filters="tag: senior design" %}
-
 
 {% include section.html %}
 
 ## All Projects
 
-{% include list.html component="card" data="projects" filters="" style="small" %}
+{% include list.html component="project-excerpt" data="projects" filters="" style="small" %}
+

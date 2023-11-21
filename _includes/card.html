@@ -3,6 +3,7 @@
   <a
     {% if include.link %}
       href="{{ include.link | relative_url }}"
+    
     {% endif %}
     aria-label="{{ include.title | default: "card link" }}"
     class="card-image"

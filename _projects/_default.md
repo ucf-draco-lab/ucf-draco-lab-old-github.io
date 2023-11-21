@@ -1,15 +1,20 @@
 ---
-title: Project Title (short)
-subtitle: 1 sentence description
+title: SHORT_TITLE
+subtitle: Single Sentence
 image: images/project/filename.png
-members:
-  firstname-lastname
-  firstname-lastname
+projectmembers:
+-
+  id: fname-lastname
+  name: "Your name as you wish it to appear"
+  email: email - only for external
+  role: "Project Lead"
+  start-date: "2023-10-10"
 tags: 
   - active | in-active
-  - <keyword1>
-  - <keyword2>
-prq: Primary Research Question (One-liner)
+  - <keyword 1>
+  - <keywork 2>
+prq: Primary Research Question.
 
 ---
-Project Description / Paragraph Goes here
+
+Paragraph description.

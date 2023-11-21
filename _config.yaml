@@ -42,9 +42,9 @@ defaults:
     values:
       layout: post
   - scope:
-      type: "project"
+      type: "projects"
     values:
-      layout: post
+      layout: project
 collections:
   # generate page for each member
   members:
