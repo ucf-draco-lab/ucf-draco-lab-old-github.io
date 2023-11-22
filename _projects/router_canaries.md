@@ -1,7 +1,7 @@
 ---
 title: Router Canaries for Home Networks
 subtitle: Develop and implement router-based canaries for advanced home-network protection.
-image: images/project/default.png
+image: images/project/default.jpg
 projectmembers:
 -
   id: malia-rojas

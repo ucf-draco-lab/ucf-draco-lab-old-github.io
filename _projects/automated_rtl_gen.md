@@ -11,7 +11,7 @@ projectmembers:
   start-date: "2023-10-10"
 tags: 
   - active
-  - artifical intelligence
+  - artificial intelligence
   - verilog
   - program synthesis
 prq: What capabilities to current code synthesis tools have for developing RTL code?

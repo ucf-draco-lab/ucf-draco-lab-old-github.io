@@ -1,7 +1,7 @@
 ---
 title: Fault Injection of STM32 RTOS
 subtitle: Analysis of STM32 Microcontroller RTOS and Data Integrity under Fault Injection 
-image: images/project/default.png
+image: images/project/default.jpg
 projectmembers:
 -
   id: sheridan-sloan

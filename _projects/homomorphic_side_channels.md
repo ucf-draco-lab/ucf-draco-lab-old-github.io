@@ -6,7 +6,6 @@ projectmembers:
 -
   id: aaron-lingerfelt
   name: "Aaron Lingerfelt"
-  email: only if external user
   role: "Project Lead"
   start-date: "2023-10-10"
 tags: 

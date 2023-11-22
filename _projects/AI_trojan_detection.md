@@ -11,7 +11,7 @@ projectmembers:
   start-date: "2023-10-10"
 tags: 
   - active
-  - artifical intelligence 
+  - artificial intelligence 
   - Hardware Trojans
   - Side-Channels
   - Power Attacks

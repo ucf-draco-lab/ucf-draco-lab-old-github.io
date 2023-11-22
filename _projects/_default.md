@@ -1,7 +1,7 @@
 ---
 title: SHORT_TITLE
 subtitle: Single Sentence
-image: images/project/filename.png
+image: images/project/default.jpg
 projectmembers:
 -
   id: fname-lastname
