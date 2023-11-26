@@ -23,5 +23,5 @@ We have opportunities for undergraduate (paid or experiential based on interest 
 
 ## All Projects
 
-{% include list.html component="project-excerpt" data="projects" filters="" style="small" %}
+{% include list.html component="project-excerpt" data="projects" %}
 
