@@ -1,6 +1,6 @@
 ---
 title: Router Canaries for Home Networks
-subtitle: Develop and implement router-based canaries for advanced home-network protection.
+subtitle: Fortifying Home Networks- Advanced Cybersecurity Strategies for Proactive Defense.
 image: images/project/default.jpg
 projectmembers:
 -
@@ -10,9 +10,13 @@ projectmembers:
   start-date: "2023-10-10"
 tags: 
   - active
-  - Anomaly Detection
-  - Network Analysis
-prq: Can network anomalies be detected and acted upon by router-based canaries?
+  - Cybersecurity
+  - Home Network Protection
+  - IoT Security
+  - Router Defense 
+  - Threat Detection
+  - Proactive Cyber Defense
+prq: In the event of a network cyber attack, how can open-source code integrated into a router assist in identifying the specific hardware targeted, extracting relevant IP addresses, and potentially providing legal information about the breach?
 
 ---
 
