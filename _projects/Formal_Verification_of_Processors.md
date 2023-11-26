@@ -25,12 +25,12 @@ prq: Can Formal Verification Methods be applied to a unverified RISC-V processor
 ---
 
 
-Objective:
+== Objective: ==
 <!-- excerpt start -->
 This research project focuses on using Formal Verification, specifically Formal Equivalence Checking, to verify the equivalence(s) of two RISC-V processors. The goal is to compare the behavior of an already verified RISC-V processor with an unverified one using mathematical proofs, identifying, and addressing any discrepancies.
 <!-- excerpt end -->
 
-Key Objectives:
+== Key Objectives: ==
 
 1.	Formal Equivalence Checking:
   a.	Implement Formal Equivalence Checking to compare the behavior of a verified RISC-V processor with an unverified one.
@@ -49,7 +49,7 @@ Key Objectives:
   b.	Generate reports outlining the processors' behavior and a detailed analysis of any corrections made.
   c.	Provide clear documentation for future research and industry applications.
 
-Expected Outcomes:
+== Expected Outcomes: ==
 
 The project aims to:
 1.	Identify and correct potential discrepancies in the unverified processor's functionality.
@@ -59,6 +59,7 @@ The project aims to:
 This research project, led by undergraduate researchers, seeks to contribute practical insights to the field of Formal Verification and provide a learning experience in RISC-V processor design and analysis.
 
 
+== Public Description ==
 
 
 When a user buys a product, they expect that it will work how it’s supposed to. They don’t want to buy a device, provide some random sequence of inputs, and then have the device shut down forever. This type of edge-case behavior can be mitigated more emphasis on verification, a stage in development devoted to ensuring everything works as designed. The DRACO Lab is exploring a facet of this process, Formal Verification, by doing Formal Equivalence Checking on two RISC-V processors. By using an already verified processor, the team can test the unverified processors correct or incorrect behavior by mathematical proofs and compare their functionality for equivalence. The goal of this process will be to apply the Formal Verification methodology and use this knowledge to verify and correct any of the processor's functionality.
