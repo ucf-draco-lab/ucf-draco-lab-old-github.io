@@ -26,8 +26,9 @@ prq: Can Formal Verification Methods be applied to a unverified RISC-V processor
 
 
 Objective:
-
+<!-- excerpt start -->
 This research project focuses on using Formal Verification, specifically Formal Equivalence Checking, to verify the equivalence(s) of two RISC-V processors. The goal is to compare the behavior of an already verified RISC-V processor with an unverified one using mathematical proofs, identifying, and addressing any discrepancies.
+<!-- excerpt end -->
 
 Key Objectives:
 
