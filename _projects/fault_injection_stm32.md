@@ -1,5 +1,5 @@
 ---
-title: title: Security in Automobile Systems
+title: Security in Automobile Systems
 subtitle: Testing the Security of STM32 MCU Against Side-Channel Attacks
 image: images/project/default.jpg
 projectmembers:
