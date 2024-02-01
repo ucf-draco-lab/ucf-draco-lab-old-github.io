@@ -16,7 +16,7 @@ Our reseachers have published over 100 papers and secured funding exceeding eigh
 
 ## News and Events
 
-{% include list.html component="post-excerpt" data="news"  %}
+{% include list.html component="news-headline" data="news"  %}
 
 
 
