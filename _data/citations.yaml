@@ -144,6 +144,14 @@
   orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:PPRN:11837388
+  title: A Blockchain-based Carbon Credit Ecosystem
+  publisher: ArXiv
+  date: '2024-01-25'
+  link: https://publons.com/wos-op/publon/57798072/
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/BigData52589.2021.9671573
   title: Comparing Ransomware using TLSH and @DisCo Analysis Frameworks
   authors:
@@ -542,6 +550,15 @@
   orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:PPRN:22703460
+  title: Secure and Decentralized Swarm Behavior with Autonomous Agents for Smart
+    Cities
+  publisher: ArXiv
+  date: '2024-01-25'
+  link: https://publons.com/wos-op/publon/59251087/
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.18260/1-2--28571
   title: Interactive Web Notebooks Using the Cloud to Enable CS in K-16+ Classrooms
     and PDs
@@ -565,6 +582,22 @@
   orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:PPRN:19311083
+  title: 'Portable Tor Router: Easily Enabling Web Privacy for Consumers'
+  publisher: ArXiv
+  date: '2024-01-25'
+  link: https://publons.com/wos-op/publon/57798073/
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:19305937
+  title: 'S-CHIRP: Secure Communication for Heterogeneous IoTs with Round-Robin Protection'
+  publisher: ArXiv
+  date: '2024-01-25'
+  link: https://publons.com/wos-op/publon/57798075/
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.18260/p.26275
   title: 'Arduinos and Games: K-12 Teachers Explore Computer Science (Evaluation)'
   authors:
@@ -573,6 +606,24 @@
   publisher: 2016 ASEE Annual Conference &amp; Exposition Proceedings
   date: ''
   link: https://doi.org/gsbv3r
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000453756400006
+  title: 'AUTHENTIC SCIENCE EXPERIENCES: PRE-COLLEGIATE SCIENCE EDUCATORS'' SUCCESSES
+    AND CHALLENGES DURING PROFESSIONAL DEVELOPMENT'
+  publisher: PROBLEMS OF EDUCATION IN THE 21ST CENTURY
+  date: '2024-01-25'
+  link: https://publons.com/wos-op/publon/33554364/
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000453754600003
+  title: 'COMMUNICATION IN STEM EDUCATION: A NON-INTRUSIVE METHOD FOR ASSESSMENT &
+    K20 EDUCATOR FEEDBACK'
+  publisher: PROBLEMS OF EDUCATION IN THE 21ST CENTURY
+  date: '2024-01-25'
+  link: https://publons.com/wos-op/publon/33554365/
   orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
@@ -613,6 +664,14 @@
   orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000453582700002
+  title: 'ENHANCING PEDAGOGY WITH CONTEXT AND PARTNERSHIPS: SCIENCE IN HAND'
+  publisher: PROBLEMS OF EDUCATION IN THE 21ST CENTURY
+  date: '2024-01-25'
+  link: https://publons.com/wos-op/publon/33554366/
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/MWSCAS.2013.6674708
   title: 'Secure controllers: Requirements of S*FSM'
   authors:
@@ -648,6 +707,26 @@
   publisher: 2012 IEEE International Symposium on Hardware-Oriented Security and Trust
   date: '2012-06-01'
   link: https://doi.org/gsbv3q
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000453576200002
+  title: 'TEACHING COMPUTER SCIENCE & ENGINEERING THROUGH ROBOTICS: SCIENCE & ART
+    FORM'
+  publisher: PROBLEMS OF EDUCATION IN THE 21ST CENTURY
+  date: '2024-01-25'
+  link: https://publons.com/wos-op/publon/33554367/
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000392562500006
+  title: 'YouDemo: Capturing Live Data from Videos ICT applications in Education and
+    Training For ICTA 2011'
+  publisher: 'ICT&A 2011/DEMSET 2011: INTERNATIONAL CONFERENCE ON INFORMATION AND
+    COMMUNICATION TECHNOLOGIES AND APPLICATIONS / INTERNATIONAL CONFERENCE ON DESIGN
+    AND MODELING IN SCIENCE, EDUCATION, AND TECHNOLOGY'
+  date: '2024-01-25'
+  link: https://publons.com/wos-op/publon/11211475/
   orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
