@@ -1,6 +1,6 @@
 ---
 name: Yvan Pierre
-image: images/people/firstname-lastname.png
+image: images/people/yvan-pierre.jpg
 role: undergrad
 links:
   linkedin: ypjr
