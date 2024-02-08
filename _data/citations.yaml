@@ -30,6 +30,34 @@
   orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.18260/1-2--41203
+  title: On the Development of Cybersecurity and Computing Centric Professional Developments
+    and the Subsequent Implementation of Topics in K12 Lesson Plans (RTP)
+  authors:
+  - Mike Borowczak
+  - Andrea Burrows
+  - Andey Robins
+  publisher: 2022 ASEE Annual Conference &amp; Exposition Proceedings
+  date: ''
+  link: https://doi.org/gtg74w
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18260/1-2--41204
+  title: The Artful Craft of Improving Virtual Summer Camps in the Midst of COVID-19
+    (Work in Progress)
+  authors:
+  - Mike Borowczak
+  - Andrea Burrows
+  - Shawna Wolf
+  - Shaya Wolf
+  - Hui Hu
+  publisher: 2022 ASEE Annual Conference &amp; Exposition Proceedings
+  date: ''
+  link: https://doi.org/gtg74x
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1177/21582440221097916
   title: 'Confusion Over Models: Exploring Discourse in a STEM Professional Development'
   authors:
