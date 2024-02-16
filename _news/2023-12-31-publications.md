@@ -2,7 +2,7 @@
 title: Two Journal of Cybersecurity Publications in 2023!
 date: 31-12-2023
 last_modified_at: ""
-author: mike-borowczak, andey-robins
+author: [mike-borowczak, andey-robins]
 tags:
   - publications
 
