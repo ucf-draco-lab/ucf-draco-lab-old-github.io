@@ -57,11 +57,13 @@ The work, projects, publications, materials, and members represented have been f
 
 {% capture content %}
 
- {% include figure.html image="images/sponsors/nsf.png"   link="http://nsf.gov" %}
+{% include figure.html image="images/sponsors/nsf.png"   link="http://nsf.gov" %}
 {% include figure.html image="images/sponsors/nsa.png" link="http://nsa.gov" %}
 {% include figure.html image="images/sponsors/gencyber.jpg" link="http://gen-cyber.com" %} 
 {% include figure.html image="images/sponsors/doe.png" link="http://energy.gov"%} 
 {% include figure.html image="images/sponsors/inl.png" link="http://inl.gov"%} 
+{% include figure.html image="images/sponsors/amd.png"   link="http://amd.com" %}
+{% include figure.html image="images/sponsors/ng.png"   link="https://www.northropgrumman.com" %}
 {% include figure.html image="images/sponsors/iog.png" link="http://iog.io" %} 
 {% include figure.html image="images/sponsors/kraken.png" link="http://kraken.com"%} 
 {% include figure.html image="images/sponsors/ripple.png" link="http://ripple.com" %} 
