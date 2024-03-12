@@ -18,6 +18,7 @@ links:
   youtube: 
 
 ### jekyll settings
+future: true
 
 # front matter defaults
 defaults:
