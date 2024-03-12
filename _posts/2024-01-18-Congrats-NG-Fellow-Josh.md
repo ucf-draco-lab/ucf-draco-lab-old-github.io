@@ -11,5 +11,5 @@ tags:
 ---
 
 <!-- excerpt start -->
-Congratulations to [Joshua Joseph](/members/joshua-joseph.html) who was recently awarded an inaugural Northrop Grumman Undergraduate research fellowship!
+Congratulations to [Joshua Joseph](/DRACO/members/joshua-joseph.html) who was recently awarded an inaugural Northrop Grumman Undergraduate research fellowship!
 <!-- excerpt end -->

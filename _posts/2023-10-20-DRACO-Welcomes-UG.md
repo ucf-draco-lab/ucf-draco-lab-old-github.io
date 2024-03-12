@@ -13,14 +13,14 @@ tags:
 Welcome to our 2023-2024 Undergraduate cohort of student researchers starting in Fall.
 <!-- excerpt end -->
 The new members are:
-  - [Aaron](/members/aaron-lingerfelt.html)
-  - [Arturo](/members/arturo-lara.html)
-  - [Jarred](/members/jarred-long.html)
-  - [Joshua](/members/joshua-joseph.html)
-  - [Lana](/members/lana-perkins.html) **[AMD Undergraduate Fellow](/members/amd.html)
-  - [Luckner](/members/luckner-ablard.html)
-  - [Malia](/members/malia-rojas.html)
-  - [Michael](/members/michael-castiglia.html) ** [AMD Undergraduate Fellow](/members/amd.html)
+  - [Aaron](/DRACO/members/aaron-lingerfelt.html)
+  - [Arturo](/DRACO/members/arturo-lara.html)
+  - [Jarred](/DRACO/members/jarred-long.html)
+  - [Joshua](/DRACO/members/joshua-joseph.html)
+  - [Lana](/DRACO/members/lana-perkins.html) **[AMD Undergraduate Fellow](/DRACO/members/amd.html)
+  - [Luckner](/DRACO/members/luckner-ablard.html)
+  - [Malia](/DRACO/members/malia-rojas.html)
+  - [Michael](/DRACO/members/michael-castiglia.html) ** [AMD Undergraduate Fellow](/DRACO/members/amd.html)
 
-  - [Sheridan](/members/sheridan-sloan.html)
-  - [Yvan](/members/yvan-pierre.html).
+  - [Sheridan](/DRACO/members/sheridan-sloan.html)
+  - [Yvan](/DRACO/members/yvan-pierre.html).

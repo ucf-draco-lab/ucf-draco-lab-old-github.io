@@ -8,4 +8,4 @@ links:
 
 ---
 
-Third person bio goes here!
+

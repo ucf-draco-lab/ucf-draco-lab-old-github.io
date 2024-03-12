@@ -9,5 +9,5 @@ tags:
 
 ---
 <!-- excerpt start -->
-DRACO is pleased to welcome two graduate students! Welcome [Andey Robins](/members/andey-robins.html) (Ph.D Student) and [Jenna Goodrich](members/jenna-goodrich.html) (MS Student).
+DRACO is pleased to welcome two graduate students! Welcome [Andey Robins](/DRACO/members/andey-robins.html) (Ph.D Student) and [Jenna Goodrich](/DRACO/members/jenna-goodrich.html) (MS Student).
 <!-- excerpt end -->
