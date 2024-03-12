@@ -3,24 +3,28 @@
 # team member roles
 
 PI:
-  icon: fa-solid fa-user-tie
+  icon: fa-solid fa-shuttle-space
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-code-fork
+  icon: fa-solid fa-satellite
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-code-branch
+  icon: fa-solid fa-chess-knight
   description: PhD Student Researcher
 
 ms:
-  icon: fa-solid fa-code-pull-request
+  icon: fa-regular fa-chess-knight
   description: Masters Student Researcher
 
 undergrad:
-  icon: fa-solid fa-code-commit
+  icon: fa-solid fa-user-astronaut
   description: Undergraduate Student Researcher
+
+sponsor:
+  icon: fa-solid fa-meteor
+  description: Sponsor
 
 AMDundergrad:
   icon: fa-solid person-rays

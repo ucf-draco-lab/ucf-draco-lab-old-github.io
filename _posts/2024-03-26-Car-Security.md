@@ -1,6 +1,6 @@
 ---
 title: Security of Automotive Embedded Systems
-authors: [sheridan-sloan, katherine-doyle]
+author: [sheridan-sloan, katherine-doyle]
 tags:
   - research
   - poster

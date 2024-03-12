@@ -1,6 +1,6 @@
 ---
 title: Side-Channel Countermeasures for Homomorphic Encryption Platforms​
-author: aarin-lingerfelt
+author: aaron-lingerfelt
 tags:
   - research
   - poster

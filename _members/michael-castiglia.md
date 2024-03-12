@@ -2,6 +2,7 @@
 name: Michael Castiglia
 image: images/people/michael-castiglia.jpg
 role: undergrad
+sponsor: amd
 group: AMD
 links:
   home-page: https://mcastiglia.com

@@ -33,6 +33,13 @@ The DRACO lab is brand new to UCF so we're growing and looking for undergraduate
 
 {% include list.html data="members" component="portrait" filters="role: capstone-senior " %}
 
+
+## Sponsors
+
+{% include list.html data="members" component="portrait" filters="role: sponsor " %}
+
+
+
 {% include section.html %}
 
 {% include section.html background="images/background.jpg" dark=true %}
@@ -63,7 +70,7 @@ The work, projects, publications, materials, and members represented have been f
 {% include figure.html image="images/sponsors/doe.png" link="http://energy.gov"%} 
 {% include figure.html image="images/sponsors/inl.png" link="http://inl.gov"%} 
 {% include figure.html image="images/sponsors/amd.png"   link="http://amd.com" %}
-{% include figure.html image="images/sponsors/ng.png"   link="https://www.northropgrumman.com" %}
+{% include figure.html image="images/sponsors/ng-square.png"   link="https://www.northropgrumman.com" %}
 {% include figure.html image="images/sponsors/iog.png" link="http://iog.io" %} 
 {% include figure.html image="images/sponsors/kraken.png" link="http://kraken.com"%} 
 {% include figure.html image="images/sponsors/ripple.png" link="http://ripple.com" %} 

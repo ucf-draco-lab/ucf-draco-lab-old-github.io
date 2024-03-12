@@ -1,6 +1,6 @@
 ---
 title: Using Artificial Intelligence to Assist Formal Verification
-authors: [lana-perkins, michael-castiglia]
+author: [lana-perkins, michael-castiglia, amd]
 tags:
   - research
   - poster

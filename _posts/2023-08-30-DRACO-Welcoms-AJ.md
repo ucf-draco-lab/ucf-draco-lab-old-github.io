@@ -2,9 +2,10 @@
 title: DRACO Welcomes Andey & Jenna
 date: 20-08-2023
 last_modified_at: ""
-author: mike-borowczak
+author: [andey-robins, jenna-goodrich]
 tags:
   - welcome
+  - graduate
 
 ---
 <!-- excerpt start -->

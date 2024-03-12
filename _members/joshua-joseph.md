@@ -2,6 +2,7 @@
 name: Joshua Joseph
 image: images/people/joshua-joseph.jpg
 role: undergrad
+sponsor: northrop-grumman
 links:
   linkedin: joshua-joseph-a7708a256
   github: JoshInOnePiece

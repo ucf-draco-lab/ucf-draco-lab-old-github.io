@@ -2,6 +2,7 @@
 name: Francisco Soriano
 image: images/people/francisco-soriano.jpg
 role: undergrad
+sponsor: amd
 links:
   linkedin: www.linkedin.com/in/francisco-e-soriano
 

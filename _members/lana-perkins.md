@@ -2,6 +2,7 @@
 name: Lana Perkins
 image: images/people/lana-perkins.jpg
 role: undergrad
+sponsor: amd
 group: AMD
 links:
   linkedin: lana-perkins-ucf
