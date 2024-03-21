@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence Detecting Hardware Trojans
-author: yvan-pierre
+author: [yvan-pierre, franco-mezzarapa]
 tags:
   - research
   - poster
