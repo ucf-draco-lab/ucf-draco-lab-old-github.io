@@ -10,4 +10,4 @@ tags:
 ---
 
 
-Poster Coming Soon!
+![AI vs Hardware Trojan](/images/assets/2024/2024-SSS-AI-vs-Hardware-Trojans.jpg){:class="img-responsive"}

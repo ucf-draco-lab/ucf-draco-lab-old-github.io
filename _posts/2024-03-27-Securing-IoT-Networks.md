@@ -10,4 +10,4 @@ tags:
 ---
 
 
-Poster Coming Soon!
+![Securing IoT Networks](/images/assets/2024/2024-SSS-Securing-IoT-Networks.jpg){:class="img-responsive"}

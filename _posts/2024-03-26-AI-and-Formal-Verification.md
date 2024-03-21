@@ -11,4 +11,4 @@ tags:
 ---
 
 
-Poster Coming Soon!
+![AI and Formal Verification](/images/assets/2024/2024-SSS-AI-and-Formal-Verification.jpg){:class="img-responsive"}
