@@ -1,5 +1,5 @@
 ---
-title: Encypted Arithmetic Operations With A Dynamic Key​
+title: Encrypted Arithmetic Operations With A Dynamic Key​
 author: [jarred-long, arturo-lara]
 tags:
   - research
@@ -10,4 +10,5 @@ tags:
 ---
 
 
-Poster Coming Soon!
+![Encypted Arithmetic Operations](/images/assets/2024/2024-SSS-Encrypted-Arithmetic-Operations.jpg){:class="img-responsive"}
+
