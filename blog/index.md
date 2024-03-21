@@ -1,13 +1,12 @@
 ---
-title: Blog
+title: News
 nav:
   order: 4
   tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News and Events
 
-Check back soon for blog posts from Dr. Borowczak and our student researchers!
 
 {% include section.html %}
 

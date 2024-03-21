@@ -15,3 +15,6 @@ yarn.lock
 node_modules
 
 ucf-draco-lab.github.io.code-workspace
+Gemfile.lock
+.vscode/tasks.json
+Gemfile.lock
