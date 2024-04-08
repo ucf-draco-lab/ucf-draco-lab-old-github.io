@@ -591,15 +591,6 @@
   orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:22703460
-  title: Secure and Decentralized Swarm Behavior with Autonomous Agents for Smart
-    Cities
-  publisher: ArXiv
-  date: '2024-01-25'
-  link: https://publons.com/wos-op/publon/59251087/
-  orcid: 0000-0001-9409-8245
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.18260/1-2--29416
   title: Hardening Freshman Engineering Student Soft Skills
   authors:
