@@ -6,7 +6,6 @@ nav:
 ---
 
 
-
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 DRACO is dedicated to exploring the resilience and security of computing systems. With a team of over a dozen student researchers, our focus is on automating the design, development, and assessment of attacks, resilience, robustness, and ultimately security in electronic devices and systems.
 
