@@ -2,6 +2,7 @@
 name: Malia Rojas 
 image: images/people/malia_rojas.jpg
 role: undergrad 
+sponsors: [ucf]
 links:
   linkedin: malia-rojas 
   homepage: 

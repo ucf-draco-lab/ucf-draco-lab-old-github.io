@@ -33,6 +33,10 @@ The DRACO lab is brand new to UCF so we're growing and looking for undergraduate
 
 {% include list.html data="members" component="portrait" filters="role: capstone-senior " %}
 
+## Alumni
+
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
+
 
 ## Sponsors
 

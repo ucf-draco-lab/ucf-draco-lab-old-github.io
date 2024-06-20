@@ -2,7 +2,8 @@
 name: Andey Robins
 image: images/people/andey-robins.png
 role: phd
-group: 
+group:
+sponsors: [ucf] 
 links:
   home-page: http://portfolio.andeyrobins.org/
   linkedin: andey-robins-798a1b176

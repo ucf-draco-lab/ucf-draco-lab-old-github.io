@@ -28,15 +28,7 @@ layout: default
   | array_filter
 %}
 
-{% capture search -%}
-  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
-{%- endcapture %}
 
-<p class="center">
-  <a href="{{ search | relative_url }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research page
-  </a>
-</p>
 
 {% capture search -%}
   blog/?search={{ page.name }}
@@ -48,11 +40,40 @@ layout: default
   </a>
 </p>
 
-{% if page.sponsor %}
-<h3>{{ page.name }}'s Funding and Support Provided By:</h3>
+{% capture search -%}
+  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
+{%- endcapture %}
+
+<p class="center">
+  <a href="{{ search | relative_url }}">
+    Search for {{ page.name | default: page.title }}'s papers on the Research page
+  </a>
+</p>
+
+
+{% if page.sponsors %}
+
+<h3 class="center">Support</h3> 
 <p class="center">
 
-{% include portrait.html lookup=page.sponsor %}
-  </p>
+<em>{{ page.name }}'s work and/or funding provided in-part by</em><br />
+{% for sponsor in page.sponsors %}
+{% include portrait.html lookup=sponsor %}
+{% endfor %}
+
+</p>
+
 {% endif %}
 
+{% if page.supporterof %}
+
+<h3 class="center">Supporter of the Following Researchers</h3> 
+<p class="center">
+
+{% for researcher in page.supporterof %}
+{% include portrait.html lookup=researcher %}
+{% endfor %}
+
+</p>
+
+{% endif %}

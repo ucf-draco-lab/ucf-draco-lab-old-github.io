@@ -2,6 +2,7 @@
 name: Jarred Long
 image: images/people/jarred-long.jpg
 role: undergrad 
+sponsors: [ucf]
 links:
   linkedin: jlong1221
 

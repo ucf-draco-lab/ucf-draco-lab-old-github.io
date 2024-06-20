@@ -2,6 +2,7 @@
 name: Katherine Doyle
 image: images/people/katherine-doyle-hd.png
 role: undergrad
+sponsors: [ucf]
 links:
   linkedin: katherine-doyle-4a3781241
   github: kedoyle

@@ -2,6 +2,7 @@
 name: Yvan Pierre
 image: images/people/yvan-pierre.jpg
 role: undergrad
+sponsors: [ucf]
 links:
   linkedin: ypjr
   github: yvanpij

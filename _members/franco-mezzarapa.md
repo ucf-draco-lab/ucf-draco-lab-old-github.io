@@ -2,6 +2,7 @@
 name: Franco Mezzarapa
 image: images/people/franco-mezzarapa.png
 role: undergrad
+sponsors: [ucf]
 links:
   linkedin: franco-mezzarapa-09a16028b
   github: Franco-Mezzarapa/

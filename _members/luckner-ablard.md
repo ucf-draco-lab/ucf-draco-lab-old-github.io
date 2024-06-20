@@ -2,6 +2,7 @@
 name: Luckner Ablard
 image: images/people/luckner-ablard.jpeg
 role: undergrad
+sponsors: [ucf]
 links:
   linkedin: luckner-ablard
   github: lablard24
