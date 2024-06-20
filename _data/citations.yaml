@@ -394,7 +394,7 @@
     \ Development with NetLogo"
   authors:
   - Mike Borowczak
-  - Andrea Burrows
+  - Andrea C. Burrows
   publisher: Education Sciences
   date: '2019-03-26'
   link: https://doi.org/gg39tm
@@ -588,15 +588,6 @@
     Intelligence
   date: '2018-03-09'
   link: https://doi.org/gkj23c
-  orcid: 0000-0001-9409-8245
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:PPRN:22703460
-  title: Secure and Decentralized Swarm Behavior with Autonomous Agents for Smart
-    Cities
-  publisher: ArXiv
-  date: '2024-01-25'
-  link: https://publons.com/wos-op/publon/59251087/
   orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
